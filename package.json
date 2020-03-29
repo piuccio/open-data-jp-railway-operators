@@ -1,0 +1,12 @@
+{
+  "name": "open-data-jp-railway-operators",
+  "version": "0.0.0",
+  "description": "List of Japanese railway operators in an accessible format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabio Crisci <fabio.crisci@gmail.com> (https://github.com/piuccio)",
+  "license": "ISC"
+}
