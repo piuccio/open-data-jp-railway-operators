@@ -2,12 +2,23 @@
 
 The list is extracted from the [National Land numerical information (railway data), Ministry of Land, Infrastructure, Transport and Tourism](http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-v2_3.html).
 
+English names are taken from Wikipedia.
+
 ### Usage
 
 Just grab the file `operators.json` it has a list of objects with the structure
 
 ```json
 {
+  "name": {
+    "ja": "Name of the company in Japanese",
+    "en": " Name of the company in English"
+  },
+  "railways": [
+    {
+      "ja": "Name of the railway in Japanese"
+    }
+  ]
 }
 ```
 

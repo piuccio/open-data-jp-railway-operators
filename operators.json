@@ -1,5 +1,9 @@
 [
   {
+    "name": {
+      "ja": "九州旅客鉄道",
+      "en": " Kyushu Railway Company"
+    },
     "railways": [
       {
         "ja": "指宿枕崎線"
@@ -67,32 +71,34 @@
       {
         "ja": "豊肥線"
       }
-    ],
-    "name": {
-      "ja": "九州旅客鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "沖縄都市モノレール",
+      "en": " Okinawa Urban Monorail, Inc."
+    },
     "railways": [
       {
         "ja": "沖縄都市モノレール線"
       }
-    ],
-    "name": {
-      "ja": "沖縄都市モノレール"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "ゆりかもめ"
+    },
     "railways": [
       {
         "ja": "東京臨海新交通臨海線"
       }
-    ],
-    "name": {
-      "ja": "ゆりかもめ"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "近畿日本鉄道",
+      "en": " Kintetsu Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "けいはんな線"
@@ -163,12 +169,13 @@
       {
         "ja": "鈴鹿線"
       }
-    ],
-    "name": {
-      "ja": "近畿日本鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "神戸新交通",
+      "en": " Kobe New Transit Co., Ltd."
+    },
     "railways": [
       {
         "ja": "ポートアイランド線"
@@ -176,42 +183,46 @@
       {
         "ja": "六甲アイランド線"
       }
-    ],
-    "name": {
-      "ja": "神戸新交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "富山ライトレール",
+      "en": " Toyama Light Rail Co., Ltd."
+    },
     "railways": [
       {
         "ja": "富山港線"
       }
-    ],
-    "name": {
-      "ja": "富山ライトレール"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "アイジーアールいわて銀河鉄道",
+      "en": " IGR Iwate Galaxy Railway Company"
+    },
     "railways": [
       {
         "ja": "いわて銀河鉄道線"
       }
-    ],
-    "name": {
-      "ja": "アイジーアールいわて銀河鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "いすみ鉄道",
+      "en": " Isumi Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "いすみ線"
       }
-    ],
-    "name": {
-      "ja": "いすみ鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "えちぜん鉄道",
+      "en": " Echizen Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "三国芦原線"
@@ -219,22 +230,24 @@
       {
         "ja": "勝山永平寺線"
       }
-    ],
-    "name": {
-      "ja": "えちぜん鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "くま川鉄道",
+      "en": " Kumagawa Rail Road"
+    },
     "railways": [
       {
         "ja": "湯前線"
       }
-    ],
-    "name": {
-      "ja": "くま川鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "しなの鉄道",
+      "en": " Shinano Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "しなの鉄道線"
@@ -242,112 +255,122 @@
       {
         "ja": "北しなの線"
       }
-    ],
-    "name": {
-      "ja": "しなの鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "スカイレールサービス",
+      "en": "Sky Rail Service Co.,Ltd. "
+    },
     "railways": [
       {
         "ja": "広島短距離交通瀬野線"
       }
-    ],
-    "name": {
-      "ja": "スカイレールサービス"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "のと鉄道",
+      "en": " NotoTetudou Corporation<ref>[http://www.nototetsu.co.jp/html/annai.html 公式サイト]の著作権表示では\" NotoTetudou Corporation.\"</ref>"
+    },
     "railways": [
       {
         "ja": "七尾線"
       }
-    ],
-    "name": {
-      "ja": "のと鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "わたらせ渓谷鐵道",
+      "en": " Watarase Keikoku Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "わたらせ渓谷線"
       }
-    ],
-    "name": {
-      "ja": "わたらせ渓谷鐵道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "阿佐海岸鉄道",
+      "en": " ASA Seaside Railway Corporation<ref>公式サイトの[http://asatetu.com/ TOPページ]</ref>"
+    },
     "railways": [
       {
         "ja": "阿佐東線"
       }
-    ],
-    "name": {
-      "ja": "阿佐海岸鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "阿武隈急行",
+      "en": " AbukumaExpress.,ltd"
+    },
     "railways": [
       {
         "ja": "阿武隈急行線"
       }
-    ],
-    "name": {
-      "ja": "阿武隈急行"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "愛知環状鉄道",
+      "en": " Aichi Loop Line CO,.LTD"
+    },
     "railways": [
       {
         "ja": "愛知環状鉄道線"
       }
-    ],
-    "name": {
-      "ja": "愛知環状鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "愛知高速交通",
+      "en": " Aichi Rapid Transit Co., Ltd."
+    },
     "railways": [
       {
         "ja": "東部丘陵線"
       }
-    ],
-    "name": {
-      "ja": "愛知高速交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "鞍馬寺"
+    },
     "railways": [
       {
         "ja": "鞍馬山鋼索鉄道"
       }
-    ],
-    "name": {
-      "ja": "鞍馬寺"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "伊勢鉄道",
+      "en": " Ise Tetsudo Railway Company"
+    },
     "railways": [
       {
         "ja": "伊勢線"
       }
-    ],
-    "name": {
-      "ja": "伊勢鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "伊豆急行",
+      "en": " IZUKYU CORPORATION"
+    },
     "railways": [
       {
         "ja": "伊豆急行線"
       }
-    ],
-    "name": {
-      "ja": "伊豆急行"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "伊豆箱根鉄道",
+      "en": " {{lang|en|IZUHAKONE Railway Co., Ltd.}}"
+    },
     "railways": [
       {
         "ja": "十国鋼索線"
@@ -358,12 +381,13 @@
       {
         "ja": "大雄山線"
       }
-    ],
-    "name": {
-      "ja": "伊豆箱根鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "伊予鉄道",
+      "en": " Iyo Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "横河原線"
@@ -389,22 +413,24 @@
       {
         "ja": "本町線"
       }
-    ],
-    "name": {
-      "ja": "伊予鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "井原鉄道",
+      "en": " Ibara Railway Company"
+    },
     "railways": [
       {
         "ja": "井原線"
       }
-    ],
-    "name": {
-      "ja": "井原鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "一畑電車",
+      "en": " Ichibata Electric Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "大社線"
@@ -412,12 +438,13 @@
       {
         "ja": "北松江線"
       }
-    ],
-    "name": {
-      "ja": "一畑電車"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "叡山電鉄",
+      "en": " Eizan Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "鞍馬線"
@@ -425,32 +452,34 @@
       {
         "ja": "叡山本線"
       }
-    ],
-    "name": {
-      "ja": "叡山電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "遠州鉄道",
+      "en": " Enshu Railway Co., Ltd.<ref name"
+    },
     "railways": [
       {
         "ja": "鉄道線"
       }
-    ],
-    "name": {
-      "ja": "遠州鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "横浜高速鉄道",
+      "en": "Yokohama Minatomirai Railway Company"
+    },
     "railways": [
       {
         "ja": "みなとみらい21線"
       }
-    ],
-    "name": {
-      "ja": "横浜高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "横浜市"
+    },
     "railways": [
       {
         "ja": "1号線"
@@ -461,22 +490,24 @@
       {
         "ja": "4号線"
       }
-    ],
-    "name": {
-      "ja": "横浜市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "横浜シーサイドライン",
+      "en": "YOKOHAMA SEASIDE LINE Co., Ltd."
+    },
     "railways": [
       {
         "ja": "金沢シーサイドライン"
       }
-    ],
-    "name": {
-      "ja": "横浜シーサイドライン"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "岡山電気軌道",
+      "en": " Okayama Electric Tramway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "清輝橋線"
@@ -484,42 +515,46 @@
       {
         "ja": "東山本線"
       }
-    ],
-    "name": {
-      "ja": "岡山電気軌道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "会津鉄道",
+      "en": " Aizu Railway Co.,ltd."
+    },
     "railways": [
       {
         "ja": "会津線"
       }
-    ],
-    "name": {
-      "ja": "会津鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "岳南電車",
+      "en": " Gakunan Electric Train Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "岳南線"
       }
-    ],
-    "name": {
-      "ja": "岳南電車"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "甘木鉄道",
+      "en": " AMAGI TETSUDOU."
+    },
     "railways": [
       {
         "ja": "甘木線"
       }
-    ],
-    "name": {
-      "ja": "甘木鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "関東鉄道",
+      "en": " Kanto Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "常総線"
@@ -527,22 +562,24 @@
       {
         "ja": "竜ヶ崎線"
       }
-    ],
-    "name": {
-      "ja": "関東鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "紀州鉄道",
+      "en": " Kishu Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "紀州鉄道線"
       }
-    ],
-    "name": {
-      "ja": "紀州鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "京王電鉄",
+      "en": " Keio Corporation"
+    },
     "railways": [
       {
         "ja": "井の頭線"
@@ -562,12 +599,13 @@
       {
         "ja": "動物園線"
       }
-    ],
-    "name": {
-      "ja": "京王電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "京阪電気鉄道",
+      "en": " Keihan Electric Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "宇治線"
@@ -593,12 +631,13 @@
       {
         "ja": "中之島線"
       }
-    ],
-    "name": {
-      "ja": "京阪電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "京成電鉄",
+      "en": " Keisei Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "押上線"
@@ -621,12 +660,12 @@
       {
         "ja": "成田空港線"
       }
-    ],
-    "name": {
-      "ja": "京成電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "京都市"
+    },
     "railways": [
       {
         "ja": "烏丸線"
@@ -634,12 +673,13 @@
       {
         "ja": "東西線"
       }
-    ],
-    "name": {
-      "ja": "京都市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "京浜急行電鉄",
+      "en": " Keikyu Corporation"
+    },
     "railways": [
       {
         "ja": "久里浜線"
@@ -656,12 +696,13 @@
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "京浜急行電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "京福電気鉄道",
+      "en": " Keifuku Electric Railroad Co., Ltd."
+    },
     "railways": [
       {
         "ja": "鋼索線"
@@ -672,22 +713,24 @@
       {
         "ja": "嵐山本線"
       }
-    ],
-    "name": {
-      "ja": "京福電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "錦川鉄道",
+      "en": " NISHIKIGAWA TETUDOU Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "錦川清流線"
       }
-    ],
-    "name": {
-      "ja": "錦川鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "四日市あすなろう鉄道",
+      "en": "Yokkaichi Asunarou Railway Co.,Ltd. <!--基礎情報 会社テンプレ内にen指定のLangテンプレの機能を含む-->"
+    },
     "railways": [
       {
         "ja": "内部線"
@@ -695,12 +738,13 @@
       {
         "ja": "八王子線"
       }
-    ],
-    "name": {
-      "ja": "四日市あすなろう鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "阪神電気鉄道",
+      "en": " Hanshin Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "阪神なんば線"
@@ -714,12 +758,13 @@
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "阪神電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "近江鉄道",
+      "en": " OHMI Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "多賀線"
@@ -730,12 +775,12 @@
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "近江鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "熊本市"
+    },
     "railways": [
       {
         "ja": "幹線"
@@ -752,12 +797,13 @@
       {
         "ja": "田崎線"
       }
-    ],
-    "name": {
-      "ja": "熊本市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "熊本電気鉄道",
+      "en": " Kumamoto Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "菊池線"
@@ -765,32 +811,35 @@
       {
         "ja": "藤崎線"
       }
-    ],
-    "name": {
-      "ja": "熊本電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "御岳登山鉄道",
+      "en": " Mitake Tozan Railway Co.,Ltd"
+    },
     "railways": [
       {
         "ja": "ケーブルカー"
       }
-    ],
-    "name": {
-      "ja": "御岳登山鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "広島高速交通",
+      "en": " Hiroshima Rapid Transit Co., Ltd."
+    },
     "railways": [
       {
         "ja": "広島新交通1号線"
       }
-    ],
-    "name": {
-      "ja": "広島高速交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "広島電鉄",
+      "en": " Hiroshima Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "宇品線"
@@ -813,12 +862,13 @@
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "広島電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "弘南鉄道",
+      "en": "Kōnan Railway Company Ltd"
+    },
     "railways": [
       {
         "ja": "弘南線"
@@ -826,22 +876,24 @@
       {
         "ja": "大鰐線"
       }
-    ],
-    "name": {
-      "ja": "弘南鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "江ノ島電鉄",
+      "en": " Enoshima Electric Railway Company, Limited. <!--有価証券報告書上の英訳名-->"
+    },
     "railways": [
       {
         "ja": "江ノ島電鉄線"
       }
-    ],
-    "name": {
-      "ja": "江ノ島電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "高松琴平電気鉄道",
+      "en": " TAKAMATSU-KOTOHIRA ELECTRIC RAILROAD Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "琴平線"
@@ -852,42 +904,46 @@
       {
         "ja": "長尾線"
       }
-    ],
-    "name": {
-      "ja": "高松琴平電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "高尾登山電鉄",
+      "en": " Takaotozan Railway Co.,Ltd"
+    },
     "railways": [
       {
         "ja": "高尾鋼索線"
       }
-    ],
-    "name": {
-      "ja": "高尾登山電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "黒部峡谷鉄道",
+      "en": " THE KUROBE GORGE RAILWAY CO., LTD"
+    },
     "railways": [
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "黒部峡谷鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "嵯峨野観光鉄道",
+      "en": " Sagano Scenic Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "嵯峨野観光線"
       }
-    ],
-    "name": {
-      "ja": "嵯峨野観光鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "阪急電鉄",
+      "en": " Hankyu Corporation<ref name"
+    },
     "railways": [
       {
         "ja": "伊丹線"
@@ -919,12 +975,13 @@
       {
         "ja": "嵐山線"
       }
-    ],
-    "name": {
-      "ja": "阪急電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "阪堺電気軌道",
+      "en": " Hankai Tramway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "阪堺線"
@@ -932,32 +989,34 @@
       {
         "ja": "上町線"
       }
-    ],
-    "name": {
-      "ja": "阪堺電気軌道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "埼玉高速鉄道",
+      "en": " Saitama Railway Corporation"
+    },
     "railways": [
       {
         "ja": "埼玉高速鉄道線"
       }
-    ],
-    "name": {
-      "ja": "埼玉高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "埼玉新都市交通",
+      "en": " Saitama New Urban Transit Co., Ltd."
+    },
     "railways": [
       {
         "ja": "伊奈線"
       }
-    ],
-    "name": {
-      "ja": "埼玉新都市交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "札幌市"
+    },
     "railways": [
       {
         "ja": "1条線"
@@ -980,12 +1039,13 @@
       {
         "ja": "都心線"
       }
-    ],
-    "name": {
-      "ja": "札幌市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "三岐鉄道",
+      "en": " SANGI Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "近鉄連絡線"
@@ -996,12 +1056,13 @@
       {
         "ja": "北勢線"
       }
-    ],
-    "name": {
-      "ja": "三岐鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "三陸鉄道",
+      "en": " Sanriku Railway Company"
+    },
     "railways": [
       {
         "ja": "南リアス線"
@@ -1009,32 +1070,35 @@
       {
         "ja": "北リアス線"
       }
-    ],
-    "name": {
-      "ja": "三陸鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "山形鉄道",
+      "en": " YAMAGATA RAILWAY Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "フラワー長井線"
       }
-    ],
-    "name": {
-      "ja": "山形鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "山万",
+      "en": " Yamaman Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "ユーカリが丘線"
       }
-    ],
-    "name": {
-      "ja": "山万"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "山陽電気鉄道",
+      "en": " Sanyo Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "本線"
@@ -1042,22 +1106,24 @@
       {
         "ja": "網干線"
       }
-    ],
-    "name": {
-      "ja": "山陽電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "四国ケーブル",
+      "en": " "
+    },
     "railways": [
       {
         "ja": "八栗ケーブル"
       }
-    ],
-    "name": {
-      "ja": "四国ケーブル"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "四国旅客鉄道",
+      "en": " Shikoku Railway Company"
+    },
     "railways": [
       {
         "ja": "高徳線"
@@ -1086,12 +1152,12 @@
       {
         "ja": "予土線"
       }
-    ],
-    "name": {
-      "ja": "四国旅客鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "鹿児島市"
+    },
     "railways": [
       {
         "ja": "第一期線"
@@ -1105,62 +1171,68 @@
       {
         "ja": "唐湊線"
       }
-    ],
-    "name": {
-      "ja": "鹿児島市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "鹿島臨海鉄道",
+      "en": " Kashima Rinkai Tetsudo Co., Ltd."
+    },
     "railways": [
       {
         "ja": "大洗鹿島線"
       }
-    ],
-    "name": {
-      "ja": "鹿島臨海鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "芝山鉄道",
+      "en": " Shibayama Railway Co,.Ltd."
+    },
     "railways": [
       {
         "ja": "芝山鉄道線"
       }
-    ],
-    "name": {
-      "ja": "芝山鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "若桜鉄道",
+      "en": " Wakasa Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "若桜線"
       }
-    ],
-    "name": {
-      "ja": "若桜鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "首都圏新都市鉄道",
+      "en": " Metropolitan Intercity Railway Company"
+    },
     "railways": [
       {
         "ja": "常磐新線"
       }
-    ],
-    "name": {
-      "ja": "首都圏新都市鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "秋田内陸縦貫鉄道",
+      "en": " Akita Nairiku Jūkan Railway Co.,ltd."
+    },
     "railways": [
       {
         "ja": "秋田内陸線"
       }
-    ],
-    "name": {
-      "ja": "秋田内陸縦貫鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "小田急電鉄",
+      "en": " Odakyu Electric Railway Co., Ltd. <ref name"
+    },
     "railways": [
       {
         "ja": "江ノ島線"
@@ -1171,112 +1243,122 @@
       {
         "ja": "多摩線"
       }
-    ],
-    "name": {
-      "ja": "小田急電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "小湊鐵道",
+      "en": " Kominato Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "小湊鐵道線"
       }
-    ],
-    "name": {
-      "ja": "小湊鐵道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "松浦鉄道",
+      "en": "Matsuura Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "西九州線"
       }
-    ],
-    "name": {
-      "ja": "松浦鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "アルピコ交通",
+      "en": " ALPICO kotsu Co., ltd."
+    },
     "railways": [
       {
         "ja": "上高地線"
       }
-    ],
-    "name": {
-      "ja": "アルピコ交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "湘南モノレール",
+      "en": "SHONAN MONORAIL CO., LTD."
+    },
     "railways": [
       {
         "ja": "江の島線"
       }
-    ],
-    "name": {
-      "ja": "湘南モノレール"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "上信電鉄",
+      "en": " Jōshin Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "上信線"
       }
-    ],
-    "name": {
-      "ja": "上信電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "上田電鉄",
+      "en": " Uedadentetsu Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "別所線"
       }
-    ],
-    "name": {
-      "ja": "上田電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "上毛電気鉄道",
+      "en": " Jomo Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "上毛線"
       }
-    ],
-    "name": {
-      "ja": "上毛電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "信楽高原鐵道",
+      "en": " Shigaraki Kohgen Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "信楽線"
       }
-    ],
-    "name": {
-      "ja": "信楽高原鐵道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "新京成電鉄",
+      "en": " Shinkeisei Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "新京成線"
       }
-    ],
-    "name": {
-      "ja": "新京成電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "真岡鐵道",
+      "en": " Moka Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "真岡線"
       }
-    ],
-    "name": {
-      "ja": "真岡鐵道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "神戸市"
+    },
     "railways": [
       {
         "ja": "海岸線"
@@ -1290,22 +1372,23 @@
       {
         "ja": "西神線"
       }
-    ],
-    "name": {
-      "ja": "神戸市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "神戸すまいまちづくり公社"
+    },
     "railways": [
       {
         "ja": "摩耶ケーブル線"
       }
-    ],
-    "name": {
-      "ja": "神戸すまいまちづくり公社"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "神戸電鉄",
+      "en": " Kobe Electric Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "粟生線"
@@ -1322,32 +1405,35 @@
       {
         "ja": "有馬線"
       }
-    ],
-    "name": {
-      "ja": "神戸電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "水間鉄道",
+      "en": " Mizuma Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "水間線"
       }
-    ],
-    "name": {
-      "ja": "水間鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "水島臨海鉄道",
+      "en": " Mizushima Rinkai Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "水島本線"
       }
-    ],
-    "name": {
-      "ja": "水島臨海鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "西日本鉄道",
+      "en": " Nishi-Nippon Railroad Co., Ltd."
+    },
     "railways": [
       {
         "ja": "甘木線"
@@ -1361,12 +1447,13 @@
       {
         "ja": "天神大牟田線"
       }
-    ],
-    "name": {
-      "ja": "西日本鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "西日本旅客鉄道",
+      "en": " West Japan Railway Company"
+    },
     "railways": [
       {
         "ja": "JR東西線"
@@ -1521,12 +1608,13 @@
       {
         "ja": "北陸新幹線"
       }
-    ],
-    "name": {
-      "ja": "西日本旅客鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "えちごトキめき鉄道",
+      "en": " Echigo TOKImeki Railway Company"
+    },
     "railways": [
       {
         "ja": "日本海ひすいライン"
@@ -1534,32 +1622,35 @@
       {
         "ja": "妙高はねうまライン"
       }
-    ],
-    "name": {
-      "ja": "えちごトキめき鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "あいの風とやま鉄道",
+      "en": " Ainokaze Toyama Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "あいの風とやま鉄道線"
       }
-    ],
-    "name": {
-      "ja": "あいの風とやま鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "IRいしかわ鉄道",
+      "en": " IR Ishikawa Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "IRいしかわ鉄道線"
       }
-    ],
-    "name": {
-      "ja": "IRいしかわ鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "西武鉄道",
+      "en": " SEIBU RAILWAY Co.,Ltd.<ref name"
+    },
     "railways": [
       {
         "ja": "狭山線"
@@ -1597,32 +1688,34 @@
       {
         "ja": "豊島線"
       }
-    ],
-    "name": {
-      "ja": "西武鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "青い森鉄道",
+      "en": " Aoimori Railway Company"
+    },
     "railways": [
       {
         "ja": "青い森鉄道線"
       }
-    ],
-    "name": {
-      "ja": "青い森鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "静岡鉄道",
+      "en": " Shizuoka Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "静岡清水線"
       }
-    ],
-    "name": {
-      "ja": "静岡鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "仙台市"
+    },
     "railways": [
       {
         "ja": "南北線"
@@ -1630,12 +1723,13 @@
       {
         "ja": "東西線"
       }
-    ],
-    "name": {
-      "ja": "仙台市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "千葉都市モノレール",
+      "en": " Chiba Urban Monorail Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "1号線"
@@ -1643,12 +1737,13 @@
       {
         "ja": "2号線"
       }
-    ],
-    "name": {
-      "ja": "千葉都市モノレール"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "相模鉄道",
+      "en": " Sagami Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "いずみ野線"
@@ -1656,32 +1751,35 @@
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "相模鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "流鉄",
+      "en": " Ryutetsu Co., Ltd."
+    },
     "railways": [
       {
         "ja": "流山線"
       }
-    ],
-    "name": {
-      "ja": "流鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "多摩都市モノレール",
+      "en": " Tokyo Tama Intercity Monorail Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "多摩都市モノレール線"
       }
-    ],
-    "name": {
-      "ja": "多摩都市モノレール"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "大井川鐵道",
+      "en": " Ōigawa Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "井川線"
@@ -1689,12 +1787,13 @@
       {
         "ja": "大井川本線"
       }
-    ],
-    "name": {
-      "ja": "大井川鐵道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "大阪高速鉄道",
+      "en": " OSAKA MONORAIL CO.,LTD."
+    },
     "railways": [
       {
         "ja": "国際文化公園都市モノレール線（彩都線）"
@@ -1702,12 +1801,13 @@
       {
         "ja": "大阪モノレール線"
       }
-    ],
-    "name": {
-      "ja": "大阪高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "大阪市高速電気軌道",
+      "en": " Osaka Metro Co., Ltd."
+    },
     "railways": [
       {
         "ja": "1号線(御堂筋線)"
@@ -1736,102 +1836,111 @@
       {
         "ja": "8号線（今里筋線）"
       }
-    ],
-    "name": {
-      "ja": "大阪市高速電気軌道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "泉北高速鉄道",
+      "en": " Semboku Rapid Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "泉北高速鉄道線"
       }
-    ],
-    "name": {
-      "ja": "泉北高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "大山観光電鉄",
+      "en": " Oyama Kanko Dentetsu Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "大山鋼索線"
       }
-    ],
-    "name": {
-      "ja": "大山観光電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "樽見鉄道",
+      "en": " TARUMI-RAILWAY CO.,LTD."
+    },
     "railways": [
       {
         "ja": "樽見線"
       }
-    ],
-    "name": {
-      "ja": "樽見鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "丹後海陸交通",
+      "en": " Tango Kairiku Koutsu Co., Ltd"
+    },
     "railways": [
       {
         "ja": "天橋立鋼索鉄道"
       }
-    ],
-    "name": {
-      "ja": "丹後海陸交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "智頭急行",
+      "en": " Chizu Express Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "智頭線"
       }
-    ],
-    "name": {
-      "ja": "智頭急行"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "筑波観光鉄道"
+    },
     "railways": [
       {
         "ja": "筑波山鋼索鉄道線"
       }
-    ],
-    "name": {
-      "ja": "筑波観光鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "筑豊電気鉄道",
+      "en": " Chikuho Electric Railroad Co., Ltd."
+    },
     "railways": [
       {
         "ja": "筑豊電気鉄道線"
       }
-    ],
-    "name": {
-      "ja": "筑豊電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "秩父鉄道",
+      "en": " Chichibu Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "秩父本線"
       }
-    ],
-    "name": {
-      "ja": "秩父鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "銚子電気鉄道",
+      "en": " Chōshi Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "銚子電気鉄道線"
       }
-    ],
-    "name": {
-      "ja": "銚子電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "長崎電気軌道",
+      "en": "Nagasaki Electric Tramway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "蛍茶屋支線"
@@ -1848,52 +1957,57 @@
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "長崎電気軌道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "長野電鉄",
+      "en": " Nagano Electric Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "長野線"
       }
-    ],
-    "name": {
-      "ja": "長野電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "長良川鉄道",
+      "en": " Nagaragawa Railway co.,Ltd."
+    },
     "railways": [
       {
         "ja": "越美南線"
       }
-    ],
-    "name": {
-      "ja": "長良川鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "津軽鉄道",
+      "en": " TSUGARU RAILWAY Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "津軽鉄道線"
       }
-    ],
-    "name": {
-      "ja": "津軽鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "天竜浜名湖鉄道",
+      "en": " Tenryu Hamanako Railroad Co., Ltd."
+    },
     "railways": [
       {
         "ja": "天竜浜名湖線"
       }
-    ],
-    "name": {
-      "ja": "天竜浜名湖鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "土佐くろしお鉄道",
+      "en": " Tosa Kuroshio Tetsudo Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "阿佐線"
@@ -1904,12 +2018,13 @@
       {
         "ja": "中村線"
       }
-    ],
-    "name": {
-      "ja": "土佐くろしお鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "とさでん交通",
+      "en": " TOSADEN TRAFFIC CO.,LTD"
+    },
     "railways": [
       {
         "ja": "伊野線"
@@ -1923,32 +2038,34 @@
       {
         "ja": "駅前線"
       }
-    ],
-    "name": {
-      "ja": "とさでん交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "島原鉄道",
+      "en": " Shimabara Railroad Co., Ltd."
+    },
     "railways": [
       {
         "ja": "島原鉄道線"
       }
-    ],
-    "name": {
-      "ja": "島原鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東海交通事業",
+      "en": " Tokai Transport Service Company."
+    },
     "railways": [
       {
         "ja": "城北線"
       }
-    ],
-    "name": {
-      "ja": "東海交通事業"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東海旅客鉄道"
+    },
     "railways": [
       {
         "ja": "関西線"
@@ -1989,22 +2106,24 @@
       {
         "ja": "名松線"
       }
-    ],
-    "name": {
-      "ja": "東海旅客鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東京モノレール",
+      "en": " TOKYO MONORAIL CO., LTD."
+    },
     "railways": [
       {
         "ja": "東京モノレール羽田線"
       }
-    ],
-    "name": {
-      "ja": "東京モノレール"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東京急行電鉄",
+      "en": " TOKYU RAILWAYS<ref name"
+    },
     "railways": [
       {
         "ja": "こどもの国線"
@@ -2030,12 +2149,13 @@
       {
         "ja": "目黒線"
       }
-    ],
-    "name": {
-      "ja": "東京急行電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東京地下鉄",
+      "en": " Tokyo Metro Co., Ltd."
+    },
     "railways": [
       {
         "ja": "2号線日比谷線"
@@ -2067,12 +2187,12 @@
       {
         "ja": "11号線半蔵門線"
       }
-    ],
-    "name": {
-      "ja": "東京地下鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東京都"
+    },
     "railways": [
       {
         "ja": "1号線浅草線"
@@ -2095,22 +2215,24 @@
       {
         "ja": "日暮里・舎人線"
       }
-    ],
-    "name": {
-      "ja": "東京都"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東京臨海高速鉄道",
+      "en": " Tokyo Waterfront Area Rapid Transit, Inc."
+    },
     "railways": [
       {
         "ja": "りんかい線"
       }
-    ],
-    "name": {
-      "ja": "東京臨海高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東日本旅客鉄道",
+      "en": " East Japan Railway Company"
+    },
     "railways": [
       {
         "ja": "伊東線"
@@ -2322,12 +2444,13 @@
       {
         "ja": "両毛線"
       }
-    ],
-    "name": {
-      "ja": "東日本旅客鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東武鉄道",
+      "en": " TOBU RAILWAY CO., LTD."
+    },
     "railways": [
       {
         "ja": "伊勢崎線"
@@ -2365,32 +2488,35 @@
       {
         "ja": "野田線"
       }
-    ],
-    "name": {
-      "ja": "東武鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "東葉高速鉄道",
+      "en": " TOYO Rapid Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "東葉高速線"
       }
-    ],
-    "name": {
-      "ja": "東葉高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "南阿蘇鉄道",
+      "en": " Minami Aso Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "高森線"
       }
-    ],
-    "name": {
-      "ja": "南阿蘇鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "南海電気鉄道",
+      "en": " Nankai Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "加太線"
@@ -2416,12 +2542,13 @@
       {
         "ja": "和歌山港線"
       }
-    ],
-    "name": {
-      "ja": "南海電気鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "能勢電鉄",
+      "en": " Nose Electric Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "日生線"
@@ -2432,12 +2559,12 @@
       {
         "ja": "妙見線"
       }
-    ],
-    "name": {
-      "ja": "能勢電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "函館市"
+    },
     "railways": [
       {
         "ja": "大森線"
@@ -2451,12 +2578,13 @@
       {
         "ja": "本線"
       }
-    ],
-    "name": {
-      "ja": "函館市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "箱根登山鉄道",
+      "en": " Hakone Tozan Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "鋼索線"
@@ -2464,42 +2592,46 @@
       {
         "ja": "鉄道線"
       }
-    ],
-    "name": {
-      "ja": "箱根登山鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "皿倉登山鉄道",
+      "en": " SARAKURA TOZAN RAILWAY Co., Ltd.<ref>{{Cite web |date"
+    },
     "railways": [
       {
         "ja": "皿倉山ケーブルカー"
       }
-    ],
-    "name": {
-      "ja": "皿倉登山鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "比叡山鉄道",
+      "en": " Hieizan Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "比叡山鉄道線"
       }
-    ],
-    "name": {
-      "ja": "比叡山鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "肥薩おれんじ鉄道",
+      "en": " Hisatsu Orange Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "肥薩おれんじ鉄道線"
       }
-    ],
-    "name": {
-      "ja": "肥薩おれんじ鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "富山地方鉄道",
+      "en": " TOYAMACHIHO RAILROAD CO.,LTD."
+    },
     "railways": [
       {
         "ja": "安野屋線"
@@ -2525,12 +2657,13 @@
       {
         "ja": "富山都心線"
       }
-    ],
-    "name": {
-      "ja": "富山地方鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "富士急行",
+      "en": " Fuji Kyuko Co., Ltd."
+    },
     "railways": [
       {
         "ja": "河口湖線"
@@ -2538,32 +2671,34 @@
       {
         "ja": "大月線"
       }
-    ],
-    "name": {
-      "ja": "富士急行"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "舞浜リゾートライン",
+      "en": " Maihama Resort Line Co., Ltd."
+    },
     "railways": [
       {
         "ja": "ディズニーリゾートライン"
       }
-    ],
-    "name": {
-      "ja": "舞浜リゾートライン"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "福井鉄道",
+      "en": " FUKUI RAILWAY Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "福武線"
       }
-    ],
-    "name": {
-      "ja": "福井鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "福岡市"
+    },
     "railways": [
       {
         "ja": "1号線(空港線)"
@@ -2574,22 +2709,24 @@
       {
         "ja": "3号線(七隈線)"
       }
-    ],
-    "name": {
-      "ja": "福岡市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "福島交通",
+      "en": " Fukushima Transportation, Inc."
+    },
     "railways": [
       {
         "ja": "飯坂線"
       }
-    ],
-    "name": {
-      "ja": "福島交通"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "平成筑豊鉄道",
+      "en": " Heisei Chikuho Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "伊田線"
@@ -2603,12 +2740,13 @@
       {
         "ja": "門司港レトロ観光線"
       }
-    ],
-    "name": {
-      "ja": "平成筑豊鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "豊橋鉄道",
+      "en": " Toyohashi Railroad Co., Ltd."
+    },
     "railways": [
       {
         "ja": "渥美線"
@@ -2616,32 +2754,35 @@
       {
         "ja": "東田本線"
       }
-    ],
-    "name": {
-      "ja": "豊橋鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北越急行",
+      "en": " Hokuetsu Express Corporation<ref>[https://hokuhoku-line.jp/profile.html 英語版サイトの会社概要]では「Hokuetsu Express Co.,Ltd」や「Hokuetsu Kyuko Co., Ltd.」といった表記も見られる。</ref>"
+    },
     "railways": [
       {
         "ja": "ほくほく線"
       }
-    ],
-    "name": {
-      "ja": "北越急行"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "道南いさりび鉄道",
+      "en": " South Hokkaido Railway Company"
+    },
     "railways": [
       {
         "ja": "道南いさりび鉄道線"
       }
-    ],
-    "name": {
-      "ja": "道南いさりび鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北海道旅客鉄道",
+      "en": " Hokkaido Railway Company"
+    },
     "railways": [
       {
         "ja": "海峡線"
@@ -2685,12 +2826,13 @@
       {
         "ja": "北海道新幹線"
       }
-    ],
-    "name": {
-      "ja": "北海道旅客鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "WILLER　TRAINS",
+      "en": " WILLER TRAINS, Inc."
+    },
     "railways": [
       {
         "ja": "宮津線"
@@ -2698,62 +2840,68 @@
       {
         "ja": "宮福線"
       }
-    ],
-    "name": {
-      "ja": "WILLER　TRAINS"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北九州高速鉄道",
+      "en": " Kitakyushu Urban Monorail Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "小倉線"
       }
-    ],
-    "name": {
-      "ja": "北九州高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北条鉄道",
+      "en": " Hojo Railway Company"
+    },
     "railways": [
       {
         "ja": "北条線"
       }
-    ],
-    "name": {
-      "ja": "北条鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北神急行電鉄",
+      "en": " Hokushinkyuko Railway Co., Ltd"
+    },
     "railways": [
       {
         "ja": "北神線"
       }
-    ],
-    "name": {
-      "ja": "北神急行電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北総鉄道",
+      "en": " Hokuso-Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "北総線"
       }
-    ],
-    "name": {
-      "ja": "北総鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北大阪急行電鉄",
+      "en": " KITA-OSAKA KYUKO RAILWAY CO.,LTD."
+    },
     "railways": [
       {
         "ja": "南北線"
       }
-    ],
-    "name": {
-      "ja": "北大阪急行電鉄"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "北陸鉄道",
+      "en": " Hokuriku Railroad Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "石川線"
@@ -2761,12 +2909,13 @@
       {
         "ja": "浅野川線"
       }
-    ],
-    "name": {
-      "ja": "北陸鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "万葉線",
+      "en": " Manyōsen Co., Ltd."
+    },
     "railways": [
       {
         "ja": "高岡軌道線"
@@ -2774,22 +2923,23 @@
       {
         "ja": "新湊港線"
       }
-    ],
-    "name": {
-      "ja": "万葉線"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "名古屋ガイドウェイバス",
+      "en": " Nagoya GuideWay-Bus Co., Ltd."
+    },
     "railways": [
       {
         "ja": "ガイドウェイバス志段味線"
       }
-    ],
-    "name": {
-      "ja": "名古屋ガイドウェイバス"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "名古屋市"
+    },
     "railways": [
       {
         "ja": "1号線東山線"
@@ -2812,12 +2962,13 @@
       {
         "ja": "上飯田線"
       }
-    ],
-    "name": {
-      "ja": "名古屋市"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "名古屋鉄道",
+      "en": " Nagoya Railroad Co.,Ltd.<ref name"
+    },
     "railways": [
       {
         "ja": "羽島線"
@@ -2879,52 +3030,57 @@
       {
         "ja": "名古屋本線"
       }
-    ],
-    "name": {
-      "ja": "名古屋鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "名古屋臨海高速鉄道",
+      "en": " Nagoya Rinkai Rapid Transit Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "西名古屋港線"
       }
-    ],
-    "name": {
-      "ja": "名古屋臨海高速鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "明知鉄道",
+      "en": " Akechi railroad company"
+    },
     "railways": [
       {
         "ja": "明知線"
       }
-    ],
-    "name": {
-      "ja": "明知鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "野岩鉄道",
+      "en": " YAGANTETSUDO RAILWAY CO.LTD.,"
+    },
     "railways": [
       {
         "ja": "会津鬼怒川線"
       }
-    ],
-    "name": {
-      "ja": "野岩鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "由利高原鉄道",
+      "en": "Yuri Kōgen Railway Ltd"
+    },
     "railways": [
       {
         "ja": "鳥海山ろく線"
       }
-    ],
-    "name": {
-      "ja": "由利高原鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "立山黒部貫光",
+      "en": " TATEYAMA KUROBE KANKO CO., LTD."
+    },
     "railways": [
       {
         "ja": "鋼索線"
@@ -2932,99 +3088,103 @@
       {
         "ja": "無軌条電車線"
       }
-    ],
-    "name": {
-      "ja": "立山黒部貫光"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "六甲山観光",
+      "en": " Mt.ROKKO CABLE CAR & TOURISM COMPANY"
+    },
     "railways": [
       {
         "ja": "六甲ケーブル線"
       }
-    ],
-    "name": {
-      "ja": "六甲山観光"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "和歌山電鐵",
+      "en": " WAKAYAMA ELECTRIC RAILWAY Co., Ltd."
+    },
     "railways": [
       {
         "ja": "貴志川線"
       }
-    ],
-    "name": {
-      "ja": "和歌山電鐵"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "仙台空港鉄道",
+      "en": " Sendai Airport Transit Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "仙台空港線"
       }
-    ],
-    "name": {
-      "ja": "仙台空港鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "ひたちなか海浜鉄道",
+      "en": " Hitachinaka Seaside Railway Co.,Ltd."
+    },
     "railways": [
       {
         "ja": "湊線"
       }
-    ],
-    "name": {
-      "ja": "ひたちなか海浜鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "養老鉄道",
+      "en": " Yoro Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "養老線"
       }
-    ],
-    "name": {
-      "ja": "養老鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "岡本製作所",
+      "en": "OKAMOTO MFG.CO.,LTD"
+    },
     "railways": [
       {
         "ja": "別府ラクテンチケーブル線"
       }
-    ],
-    "name": {
-      "ja": "岡本製作所"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "伊賀鉄道",
+      "en": " Iga Railway Co., Ltd."
+    },
     "railways": [
       {
         "ja": "伊賀線"
       }
-    ],
-    "name": {
-      "ja": "伊賀鉄道"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "一般財団法人青函トンネル記念館"
+    },
     "railways": [
       {
         "ja": "青函トンネル竜飛斜坑線"
       }
-    ],
-    "name": {
-      "ja": "一般財団法人青函トンネル記念館"
-    }
+    ]
   },
   {
+    "name": {
+      "ja": "伊賀市"
+    },
     "railways": [
       {
         "ja": "伊賀線"
       }
-    ],
-    "name": {
-      "ja": "伊賀市"
-    }
+    ]
   }
 ]
