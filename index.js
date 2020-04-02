@@ -1,6 +1,6 @@
 const fs = require('fs');
 const util = require('util');
-const {getCompanyDetails} = require('./wikipedia.js');
+const {getCompanyDetails, getRailwayDetails} = require('./wikipedia.js');
 const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
 
@@ -24,7 +24,11 @@ async function start() {
       };
     }
     if (!operator.railways.find((_) => _.ja === railwayName)) {
-      operator.railways.push({ja: railwayName});
+      const details = await getRailwayDetails(railwayName);
+      operator.railways.push({
+        ja: railwayName,
+        en: details.englishName,
+      });
     }
 
     operatorsList[operatorName] = operator;

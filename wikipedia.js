@@ -3,13 +3,14 @@ const debug = require('debug')('wikipedia');
 const cached = require('@piuccio/cached-function');
 
 const WIKIPEDIA_COMPANY_CACHE = './input/cache/wikipedia-companies.json';
+const WIKIPEDIA_RAILWAY_CACHE = './input/cache/wikipedia-railways.json';
 
 function buildWikipediaUrl(title) {
   const searchParams = new URLSearchParams();
   searchParams.append('action', 'parse');
   searchParams.append('format', 'json');
   searchParams.append('page', title);
-  searchParams.append('prop', 'wikitext');
+  searchParams.append('prop', 'wikitext|langlinks');
   searchParams.append('redirects', 1);
   searchParams.append('disabletoc', 1);
   return `https://ja.wikipedia.org/w/api.php?${searchParams}`;
@@ -44,6 +45,22 @@ exports.getCompanyDetails = cached(WIKIPEDIA_COMPANY_CACHE, async function (comp
     }
   });
   return details;
+});
+
+exports.getRailwayDetails = cached(WIKIPEDIA_RAILWAY_CACHE, async function (railwayName) {
+  debug(`Railway name: ${railwayName}`);
+  const url = buildWikipediaUrl(railwayName);
+  debug(`Fetch: ${url}`);
+  const response = await asJson(await get(url));
+  if (response.error) {
+    debug(`Error: ${response.error.info}`);
+    return {};
+  }
+  const link = response.parse.langlinks.find((_) => _.lang === 'en');
+  return link ? {
+    englishName: link.title || link['*'],
+    ...link,
+  } : {};
 });
 
 const MAPPING = {
