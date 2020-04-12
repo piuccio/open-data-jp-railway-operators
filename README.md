@@ -16,7 +16,8 @@ Just grab the file `operators.json` it has a list of objects with the structure
   },
   "railways": [
     {
-      "ja": "Name of the railway in Japanese"
+      "ja": "Name of the railway in Japanese",
+      "en": "Name of the railway in English"
     }
   ]
 }
