@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@piuccio/cached-function": "1.0.2",
+    "csv-parse": "4.8.8",
     "debug": "4.1.1",
     "simple-get-promise": "3.0.0"
   }

@@ -1,11 +1,13 @@
 const fs = require('fs');
 const util = require('util');
 const {getCompanyDetails, getRailwayDetails} = require('./wikipedia.js');
+const {getRailwayPrefectures, setupPrefecturesData} = require('./prefectures.js');
 const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
 
 async function start() {
   const table = await readFile('./input/operators-table.json');
+  await setupPrefecturesData()
   const list = JSON.parse(table);
 
   const operatorsList = {};
@@ -28,6 +30,7 @@ async function start() {
       operator.railways.push({
         ja: railwayName,
         en: details.englishName,
+        prefectures: getRailwayPrefectures(operatorName, railwayName),
       });
     }
 

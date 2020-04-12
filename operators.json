@@ -7,89 +7,175 @@
     "railways": [
       {
         "ja": "指宿枕崎線",
-        "en": "Ibusuki Makurazaki Line"
+        "en": "Ibusuki Makurazaki Line",
+        "prefectures": [
+          "鹿児島県"
+        ]
       },
       {
         "ja": "吉都線",
-        "en": "Kitto Line"
+        "en": "Kitto Line",
+        "prefectures": [
+          "宮崎県",
+          "鹿児島県"
+        ]
       },
       {
         "ja": "久大線",
-        "en": "Kyūdai Main Line"
+        "en": "Kyūdai Main Line",
+        "prefectures": [
+          "福岡県",
+          "大分県"
+        ]
       },
       {
         "ja": "宮崎空港線",
-        "en": "Miyazaki Kūkō Line"
+        "en": "Miyazaki Kūkō Line",
+        "prefectures": [
+          "宮崎県"
+        ]
       },
       {
         "ja": "九州新幹線",
-        "en": "Kyushu Shinkansen"
+        "en": "Kyushu Shinkansen",
+        "prefectures": [
+          "鹿児島県",
+          "熊本県",
+          "福岡県",
+          "佐賀県"
+        ]
       },
       {
         "ja": "後藤寺線",
-        "en": "Gotōji Line"
+        "en": "Gotōji Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "香椎線",
-        "en": "Kashii Line"
+        "en": "Kashii Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "佐世保線",
-        "en": "Sasebo Line"
+        "en": "Sasebo Line",
+        "prefectures": [
+          "佐賀県",
+          "長崎県"
+        ]
       },
       {
         "ja": "三角線",
-        "en": "Misumi Line"
+        "en": "Misumi Line",
+        "prefectures": [
+          "熊本県"
+        ]
       },
       {
-        "ja": "山陽線"
+        "ja": "山陽線",
+        "prefectures": [
+          "福岡県",
+          "山口県"
+        ]
       },
       {
-        "ja": "鹿児島線"
+        "ja": "鹿児島線",
+        "prefectures": [
+          "福岡県",
+          "佐賀県",
+          "熊本県",
+          "鹿児島県"
+        ]
       },
       {
         "ja": "篠栗線",
-        "en": "Sasaguri Line"
+        "en": "Sasaguri Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "大村線",
-        "en": "Ōmura Line"
+        "en": "Ōmura Line",
+        "prefectures": [
+          "長崎県"
+        ]
       },
       {
         "ja": "筑肥線",
-        "en": "Chikuhi Line"
+        "en": "Chikuhi Line",
+        "prefectures": [
+          "福岡県",
+          "佐賀県"
+        ]
       },
       {
         "ja": "筑豊線",
-        "en": "Chikuhō Main Line"
+        "en": "Chikuhō Main Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "長崎線",
-        "en": "Nagasaki Main Line"
+        "en": "Nagasaki Main Line",
+        "prefectures": [
+          "佐賀県",
+          "長崎県"
+        ]
       },
       {
         "ja": "唐津線",
-        "en": "Karatsu Line"
+        "en": "Karatsu Line",
+        "prefectures": [
+          "佐賀県"
+        ]
       },
       {
         "ja": "日田彦山線",
-        "en": "Hitahikosan Line"
+        "en": "Hitahikosan Line",
+        "prefectures": [
+          "福岡県",
+          "大分県"
+        ]
       },
       {
         "ja": "日南線",
-        "en": "Nichinan Line"
+        "en": "Nichinan Line",
+        "prefectures": [
+          "宮崎県",
+          "鹿児島県"
+        ]
       },
       {
         "ja": "日豊線",
-        "en": "Nippō Main Line"
+        "en": "Nippō Main Line",
+        "prefectures": [
+          "大分県",
+          "福岡県",
+          "宮崎県",
+          "鹿児島県"
+        ]
       },
       {
         "ja": "肥薩線",
-        "en": "Hisatsu Line"
+        "en": "Hisatsu Line",
+        "prefectures": [
+          "鹿児島県",
+          "熊本県",
+          "宮崎県"
+        ]
       },
       {
         "ja": "豊肥線",
-        "en": "Hōhi Main Line"
+        "en": "Hōhi Main Line",
+        "prefectures": [
+          "大分県",
+          "熊本県"
+        ]
       }
     ]
   },
@@ -101,7 +187,10 @@
     "railways": [
       {
         "ja": "沖縄都市モノレール線",
-        "en": "Okinawa Urban Monorail"
+        "en": "Okinawa Urban Monorail",
+        "prefectures": [
+          "沖縄県"
+        ]
       }
     ]
   },
@@ -112,7 +201,10 @@
     "railways": [
       {
         "ja": "東京臨海新交通臨海線",
-        "en": "Yurikamome"
+        "en": "Yurikamome",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -124,95 +216,171 @@
     "railways": [
       {
         "ja": "けいはんな線",
-        "en": "Keihanna Line"
+        "en": "Keihanna Line",
+        "prefectures": [
+          "大阪府",
+          "奈良県"
+        ]
       },
       {
         "ja": "橿原線",
-        "en": "Kashihara Line"
+        "en": "Kashihara Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "吉野線",
-        "en": "Yoshino Line"
+        "en": "Yoshino Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "京都線",
-        "en": "Kyoto Line"
+        "en": "Kyoto Line",
+        "prefectures": [
+          "京都府",
+          "奈良県"
+        ]
       },
       {
         "ja": "御所線",
-        "en": "Gose Line"
+        "en": "Gose Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "山田線",
-        "en": "Yamada Line (JR East)"
+        "en": "Yamada Line (JR East)",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
         "ja": "志摩線",
-        "en": "Shima Line"
+        "en": "Shima Line",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
         "ja": "信貴線",
-        "en": "Shigi Line"
+        "en": "Shigi Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "生駒鋼索線",
-        "en": "Ikoma Cable Line"
+        "en": "Ikoma Cable Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "生駒線",
-        "en": "Ikoma Line"
+        "en": "Ikoma Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "西信貴鋼索線",
-        "en": "Nishi-Shigi Cable Line"
+        "en": "Nishi-Shigi Cable Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "大阪線",
-        "en": "Osaka Line"
+        "en": "Osaka Line",
+        "prefectures": [
+          "三重県",
+          "大阪府",
+          "奈良県"
+        ]
       },
       {
         "ja": "長野線",
-        "en": "Nagano Line"
+        "en": "Nagano Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "鳥羽線",
-        "en": "Toba Line"
+        "en": "Toba Line",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
         "ja": "天理線",
-        "en": "Tenri Line"
+        "en": "Tenri Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "田原本線",
-        "en": "Tawaramoto Line"
+        "en": "Tawaramoto Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "湯の山線",
-        "en": "Yunoyama Line"
+        "en": "Yunoyama Line",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
         "ja": "道明寺線",
-        "en": "Domyoji Line"
+        "en": "Domyoji Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "奈良線",
-        "en": "Nara Line (JR West)"
+        "en": "Nara Line (JR West)",
+        "prefectures": [
+          "奈良県",
+          "大阪府"
+        ]
       },
       {
         "ja": "南大阪線",
-        "en": "Minami Osaka Line"
+        "en": "Minami Osaka Line",
+        "prefectures": [
+          "奈良県",
+          "大阪府"
+        ]
       },
       {
         "ja": "難波線",
-        "en": "Kintetsu Namba Line"
+        "en": "Kintetsu Namba Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "名古屋線",
-        "en": "Nagoya Line (Kintetsu)"
+        "en": "Nagoya Line (Kintetsu)",
+        "prefectures": [
+          "愛知県",
+          "三重県"
+        ]
       },
       {
         "ja": "鈴鹿線",
-        "en": "Suzuka Line"
+        "en": "Suzuka Line",
+        "prefectures": [
+          "三重県"
+        ]
       }
     ]
   },
@@ -224,11 +392,17 @@
     "railways": [
       {
         "ja": "ポートアイランド線",
-        "en": "Port Island Line"
+        "en": "Port Island Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "六甲アイランド線",
-        "en": "Rokkō Island Line"
+        "en": "Rokkō Island Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -240,7 +414,10 @@
     "railways": [
       {
         "ja": "富山港線",
-        "en": "Toyama Chihō Railway Toyamakō Line"
+        "en": "Toyama Chihō Railway Toyamakō Line",
+        "prefectures": [
+          "富山県"
+        ]
       }
     ]
   },
@@ -252,7 +429,11 @@
     "railways": [
       {
         "ja": "いわて銀河鉄道線",
-        "en": "Iwate Galaxy Railway Line"
+        "en": "Iwate Galaxy Railway Line",
+        "prefectures": [
+          "岩手県",
+          "青森県"
+        ]
       }
     ]
   },
@@ -264,7 +445,10 @@
     "railways": [
       {
         "ja": "いすみ線",
-        "en": "Isumi Line"
+        "en": "Isumi Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -276,11 +460,17 @@
     "railways": [
       {
         "ja": "三国芦原線",
-        "en": "Mikuni Awara Line"
+        "en": "Mikuni Awara Line",
+        "prefectures": [
+          "福井県"
+        ]
       },
       {
         "ja": "勝山永平寺線",
-        "en": "Katsuyama Eiheiji Line"
+        "en": "Katsuyama Eiheiji Line",
+        "prefectures": [
+          "福井県"
+        ]
       }
     ]
   },
@@ -292,7 +482,10 @@
     "railways": [
       {
         "ja": "湯前線",
-        "en": "Yunomae Line"
+        "en": "Yunomae Line",
+        "prefectures": [
+          "熊本県"
+        ]
       }
     ]
   },
@@ -304,11 +497,18 @@
     "railways": [
       {
         "ja": "しなの鉄道線",
-        "en": "Shinano Railway Line"
+        "en": "Shinano Railway Line",
+        "prefectures": [
+          "長野県"
+        ]
       },
       {
         "ja": "北しなの線",
-        "en": "Kita-Shinano Line"
+        "en": "Kita-Shinano Line",
+        "prefectures": [
+          "長野県",
+          "新潟県"
+        ]
       }
     ]
   },
@@ -320,7 +520,10 @@
     "railways": [
       {
         "ja": "広島短距離交通瀬野線",
-        "en": "Skyrail Midorizaka Line"
+        "en": "Skyrail Midorizaka Line",
+        "prefectures": [
+          "広島県"
+        ]
       }
     ]
   },
@@ -332,7 +535,10 @@
     "railways": [
       {
         "ja": "七尾線",
-        "en": "Nanao Line"
+        "en": "Nanao Line",
+        "prefectures": [
+          "石川県"
+        ]
       }
     ]
   },
@@ -344,7 +550,11 @@
     "railways": [
       {
         "ja": "わたらせ渓谷線",
-        "en": "Watarase Keikoku Line"
+        "en": "Watarase Keikoku Line",
+        "prefectures": [
+          "群馬県",
+          "栃木県"
+        ]
       }
     ]
   },
@@ -356,7 +566,11 @@
     "railways": [
       {
         "ja": "阿佐東線",
-        "en": "Asatō Line"
+        "en": "Asatō Line",
+        "prefectures": [
+          "徳島県",
+          "高知県"
+        ]
       }
     ]
   },
@@ -368,7 +582,11 @@
     "railways": [
       {
         "ja": "阿武隈急行線",
-        "en": "Abukuma Express Line"
+        "en": "Abukuma Express Line",
+        "prefectures": [
+          "福島県",
+          "宮城県"
+        ]
       }
     ]
   },
@@ -380,7 +598,10 @@
     "railways": [
       {
         "ja": "愛知環状鉄道線",
-        "en": "Aichi Loop Line"
+        "en": "Aichi Loop Line",
+        "prefectures": [
+          "愛知県"
+        ]
       }
     ]
   },
@@ -392,7 +613,10 @@
     "railways": [
       {
         "ja": "東部丘陵線",
-        "en": "Linimo"
+        "en": "Linimo",
+        "prefectures": [
+          "愛知県"
+        ]
       }
     ]
   },
@@ -403,7 +627,10 @@
     "railways": [
       {
         "ja": "鞍馬山鋼索鉄道",
-        "en": "Kurama-dera Cable"
+        "en": "Kurama-dera Cable",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -414,7 +641,10 @@
     },
     "railways": [
       {
-        "ja": "伊勢線"
+        "ja": "伊勢線",
+        "prefectures": [
+          "三重県"
+        ]
       }
     ]
   },
@@ -426,7 +656,10 @@
     "railways": [
       {
         "ja": "伊豆急行線",
-        "en": "Izu Kyūkō Line"
+        "en": "Izu Kyūkō Line",
+        "prefectures": [
+          "静岡県"
+        ]
       }
     ]
   },
@@ -438,15 +671,24 @@
     "railways": [
       {
         "ja": "十国鋼索線",
-        "en": "Jukkokutōge Cable Car"
+        "en": "Jukkokutōge Cable Car",
+        "prefectures": [
+          "静岡県"
+        ]
       },
       {
         "ja": "駿豆線",
-        "en": "Izuhakone Railway Sunzu Line"
+        "en": "Izuhakone Railway Sunzu Line",
+        "prefectures": [
+          "静岡県"
+        ]
       },
       {
         "ja": "大雄山線",
-        "en": "Daiyūzan Line"
+        "en": "Daiyūzan Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -458,31 +700,55 @@
     "railways": [
       {
         "ja": "横河原線",
-        "en": "Yokogawara Line"
+        "en": "Yokogawara Line",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
-        "ja": "花園線"
+        "ja": "花園線",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
         "ja": "郡中線",
-        "en": "Gunchū Line"
+        "en": "Gunchū Line",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
         "ja": "高浜線",
-        "en": "Takahama Line"
+        "en": "Takahama Line",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
-        "ja": "城南線"
+        "ja": "城南線",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
         "ja": "城北線",
-        "en": "Jōhoku Line"
+        "en": "Jōhoku Line",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
-        "ja": "大手町線"
+        "ja": "大手町線",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
-        "ja": "本町線"
+        "ja": "本町線",
+        "prefectures": [
+          "愛媛県"
+        ]
       }
     ]
   },
@@ -494,7 +760,11 @@
     "railways": [
       {
         "ja": "井原線",
-        "en": "Ibara Line"
+        "en": "Ibara Line",
+        "prefectures": [
+          "岡山県",
+          "広島県"
+        ]
       }
     ]
   },
@@ -506,11 +776,17 @@
     "railways": [
       {
         "ja": "大社線",
-        "en": "Taisha Line (JR West)"
+        "en": "Taisha Line (JR West)",
+        "prefectures": [
+          "島根県"
+        ]
       },
       {
         "ja": "北松江線",
-        "en": "Kita-Matsue Line"
+        "en": "Kita-Matsue Line",
+        "prefectures": [
+          "島根県"
+        ]
       }
     ]
   },
@@ -521,10 +797,16 @@
     },
     "railways": [
       {
-        "ja": "鞍馬線"
+        "ja": "鞍馬線",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
-        "ja": "叡山本線"
+        "ja": "叡山本線",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -535,7 +817,10 @@
     },
     "railways": [
       {
-        "ja": "鉄道線"
+        "ja": "鉄道線",
+        "prefectures": [
+          "静岡県"
+        ]
       }
     ]
   },
@@ -547,7 +832,10 @@
     "railways": [
       {
         "ja": "みなとみらい21線",
-        "en": "Minatomirai Line"
+        "en": "Minatomirai Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -558,13 +846,22 @@
     "railways": [
       {
         "ja": "1号線",
-        "en": "Line 1"
+        "en": "Line 1",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
-        "ja": "3号線"
+        "ja": "3号線",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
-        "ja": "4号線"
+        "ja": "4号線",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -576,7 +873,11 @@
     "railways": [
       {
         "ja": "金沢シーサイドライン",
-        "en": "Kanazawa Seaside Line"
+        "en": "Kanazawa Seaside Line",
+        "prefectures": [
+          "神奈川県",
+          ""
+        ]
       }
     ]
   },
@@ -587,10 +888,16 @@
     },
     "railways": [
       {
-        "ja": "清輝橋線"
+        "ja": "清輝橋線",
+        "prefectures": [
+          "岡山県"
+        ]
       },
       {
-        "ja": "東山本線"
+        "ja": "東山本線",
+        "prefectures": [
+          "岡山県"
+        ]
       }
     ]
   },
@@ -602,7 +909,10 @@
     "railways": [
       {
         "ja": "会津線",
-        "en": "Aizu Line"
+        "en": "Aizu Line",
+        "prefectures": [
+          "福島県"
+        ]
       }
     ]
   },
@@ -614,7 +924,10 @@
     "railways": [
       {
         "ja": "岳南線",
-        "en": "Gakunan Railway Line"
+        "en": "Gakunan Railway Line",
+        "prefectures": [
+          "静岡県"
+        ]
       }
     ]
   },
@@ -626,7 +939,11 @@
     "railways": [
       {
         "ja": "甘木線",
-        "en": "Amagi Railway Amagi Line"
+        "en": "Amagi Railway Amagi Line",
+        "prefectures": [
+          "佐賀県",
+          "福岡県"
+        ]
       }
     ]
   },
@@ -638,11 +955,17 @@
     "railways": [
       {
         "ja": "常総線",
-        "en": "Jōsō Line"
+        "en": "Jōsō Line",
+        "prefectures": [
+          "茨城県"
+        ]
       },
       {
         "ja": "竜ヶ崎線",
-        "en": "Ryūgasaki Line"
+        "en": "Ryūgasaki Line",
+        "prefectures": [
+          "茨城県"
+        ]
       }
     ]
   },
@@ -654,7 +977,10 @@
     "railways": [
       {
         "ja": "紀州鉄道線",
-        "en": "Kishū Railway Line"
+        "en": "Kishū Railway Line",
+        "prefectures": [
+          "和歌山県"
+        ]
       }
     ]
   },
@@ -666,27 +992,46 @@
     "railways": [
       {
         "ja": "井の頭線",
-        "en": "Keio Inokashira Line"
+        "en": "Keio Inokashira Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "京王線",
-        "en": "Keiō Line"
+        "en": "Keiō Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "競馬場線",
-        "en": "Keiō Keibajō Line"
+        "en": "Keiō Keibajō Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "高尾線",
-        "en": "Keiō Takao Line"
+        "en": "Keiō Takao Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "相模原線",
-        "en": "Keio Sagamihara Line"
+        "en": "Keio Sagamihara Line",
+        "prefectures": [
+          "東京都",
+          "神奈川県"
+        ]
       },
       {
         "ja": "動物園線",
-        "en": "Keiō Dōbutsuen Line"
+        "en": "Keiō Dōbutsuen Line",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -698,32 +1043,58 @@
     "railways": [
       {
         "ja": "宇治線",
-        "en": "Keihan Uji Line"
+        "en": "Keihan Uji Line",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
-        "ja": "鴨東線"
+        "ja": "鴨東線",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
         "ja": "京阪本線",
-        "en": "Keihan Main Line"
+        "en": "Keihan Main Line",
+        "prefectures": [
+          "京都府",
+          "大阪府"
+        ]
       },
       {
-        "ja": "京津線"
+        "ja": "京津線",
+        "prefectures": [
+          "滋賀県",
+          "京都府"
+        ]
       },
       {
         "ja": "交野線",
-        "en": "Keihan Katano Line"
+        "en": "Keihan Katano Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "鋼索線"
+        "ja": "鋼索線",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
         "ja": "石山坂本線",
-        "en": "Keihan Ishiyama Sakamoto Line"
+        "en": "Keihan Ishiyama Sakamoto Line",
+        "prefectures": [
+          "滋賀県"
+        ]
       },
       {
         "ja": "中之島線",
-        "en": "Keihan Nakanoshima Line"
+        "en": "Keihan Nakanoshima Line",
+        "prefectures": [
+          "大阪府"
+        ]
       }
     ]
   },
@@ -735,30 +1106,53 @@
     "railways": [
       {
         "ja": "押上線",
-        "en": "Keisei Oshiage Line"
+        "en": "Keisei Oshiage Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "金町線",
-        "en": "Keisei Kanamachi Line"
+        "en": "Keisei Kanamachi Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "千原線",
-        "en": "Keisei Chihara Line"
+        "en": "Keisei Chihara Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "千葉線",
-        "en": "Keisei Chiba Line"
+        "en": "Keisei Chiba Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "東成田線",
-        "en": "Keisei Higashi-Narita Line"
+        "en": "Keisei Higashi-Narita Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "千葉県",
+          "東京都"
+        ]
       },
       {
-        "ja": "成田空港線"
+        "ja": "成田空港線",
+        "prefectures": [
+          "千葉県",
+          "東京都"
+        ]
       }
     ]
   },
@@ -769,11 +1163,17 @@
     "railways": [
       {
         "ja": "烏丸線",
-        "en": "Karasuma Line"
+        "en": "Karasuma Line",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
         "ja": "東西線",
-        "en": "East West Line"
+        "en": "East West Line",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -785,23 +1185,39 @@
     "railways": [
       {
         "ja": "久里浜線",
-        "en": "Keikyū Kurihama Line"
+        "en": "Keikyū Kurihama Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "空港線",
-        "en": "Kūkō Line"
+        "en": "Kūkō Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "逗子線",
-        "en": "Keikyū Zushi Line"
+        "en": "Keikyū Zushi Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "大師線",
-        "en": "Daishi Line"
+        "en": "Daishi Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "東京都",
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -812,13 +1228,22 @@
     },
     "railways": [
       {
-        "ja": "鋼索線"
+        "ja": "鋼索線",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
-        "ja": "北野線"
+        "ja": "北野線",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
-        "ja": "嵐山本線"
+        "ja": "嵐山本線",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -830,7 +1255,10 @@
     "railways": [
       {
         "ja": "錦川清流線",
-        "en": "Nishikigawa Seiryū Line"
+        "en": "Nishikigawa Seiryū Line",
+        "prefectures": [
+          "山口県"
+        ]
       }
     ]
   },
@@ -842,10 +1270,16 @@
     "railways": [
       {
         "ja": "内部線",
-        "en": "Yokkaichi Asunarou Railway Utsube Line"
+        "en": "Yokkaichi Asunarou Railway Utsube Line",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
-        "ja": "八王子線"
+        "ja": "八王子線",
+        "prefectures": [
+          "三重県"
+        ]
       }
     ]
   },
@@ -857,18 +1291,32 @@
     "railways": [
       {
         "ja": "阪神なんば線",
-        "en": "Hanshin Namba Line"
+        "en": "Hanshin Namba Line",
+        "prefectures": [
+          "大阪府",
+          "兵庫県"
+        ]
       },
       {
-        "ja": "神戸高速線"
+        "ja": "神戸高速線",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "武庫川線",
-        "en": "Hanshin Mukogawa Line"
+        "en": "Hanshin Mukogawa Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "大阪府",
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -880,15 +1328,24 @@
     "railways": [
       {
         "ja": "多賀線",
-        "en": "Ohmi Railway Taga Line"
+        "en": "Ohmi Railway Taga Line",
+        "prefectures": [
+          "滋賀県"
+        ]
       },
       {
         "ja": "八日市線",
-        "en": "Ohmi Railway Yōkaichi Line"
+        "en": "Ohmi Railway Yōkaichi Line",
+        "prefectures": [
+          "滋賀県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "滋賀県"
+        ]
       }
     ]
   },
@@ -898,19 +1355,34 @@
     },
     "railways": [
       {
-        "ja": "幹線"
+        "ja": "幹線",
+        "prefectures": [
+          "熊本県"
+        ]
       },
       {
-        "ja": "健軍線"
+        "ja": "健軍線",
+        "prefectures": [
+          "熊本県"
+        ]
       },
       {
-        "ja": "上熊本線"
+        "ja": "上熊本線",
+        "prefectures": [
+          "熊本県"
+        ]
       },
       {
-        "ja": "水前寺線"
+        "ja": "水前寺線",
+        "prefectures": [
+          "熊本県"
+        ]
       },
       {
-        "ja": "田崎線"
+        "ja": "田崎線",
+        "prefectures": [
+          "熊本県"
+        ]
       }
     ]
   },
@@ -921,11 +1393,17 @@
     },
     "railways": [
       {
-        "ja": "菊池線"
+        "ja": "菊池線",
+        "prefectures": [
+          "熊本県"
+        ]
       },
       {
         "ja": "藤崎線",
-        "en": "Fujisaki Line"
+        "en": "Fujisaki Line",
+        "prefectures": [
+          "熊本県"
+        ]
       }
     ]
   },
@@ -937,7 +1415,10 @@
     "railways": [
       {
         "ja": "ケーブルカー",
-        "en": "Funicular"
+        "en": "Funicular",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -949,7 +1430,10 @@
     "railways": [
       {
         "ja": "広島新交通1号線",
-        "en": "Astram Line"
+        "en": "Astram Line",
+        "prefectures": [
+          "広島県"
+        ]
       }
     ]
   },
@@ -960,31 +1444,52 @@
     },
     "railways": [
       {
-        "ja": "宇品線"
+        "ja": "宇品線",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "横川線",
-        "en": "Hiroden Yokogawa Line"
+        "en": "Hiroden Yokogawa Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "皆実線",
-        "en": "Hiroden Hijiyama Line"
+        "en": "Hiroden Hijiyama Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "宮島線",
-        "en": "Hiroden Miyajima Line"
+        "en": "Hiroden Miyajima Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "江波線",
-        "en": "Hiroden Eba Line"
+        "en": "Hiroden Eba Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "白島線",
-        "en": "Hiroden Hakushima Line"
+        "en": "Hiroden Hakushima Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "広島県"
+        ]
       }
     ]
   },
@@ -996,11 +1501,17 @@
     "railways": [
       {
         "ja": "弘南線",
-        "en": "Kōnan Railway Kōnan Line"
+        "en": "Kōnan Railway Kōnan Line",
+        "prefectures": [
+          "青森県"
+        ]
       },
       {
         "ja": "大鰐線",
-        "en": "Kōnan Railway Ōwani Line"
+        "en": "Kōnan Railway Ōwani Line",
+        "prefectures": [
+          "青森県"
+        ]
       }
     ]
   },
@@ -1011,7 +1522,10 @@
     },
     "railways": [
       {
-        "ja": "江ノ島電鉄線"
+        "ja": "江ノ島電鉄線",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -1023,14 +1537,23 @@
     "railways": [
       {
         "ja": "琴平線",
-        "en": "Kotoden Kotohira Line"
+        "en": "Kotoden Kotohira Line",
+        "prefectures": [
+          "香川県"
+        ]
       },
       {
         "ja": "志度線",
-        "en": "Kotoden Shido Line"
+        "en": "Kotoden Shido Line",
+        "prefectures": [
+          "香川県"
+        ]
       },
       {
-        "ja": "長尾線"
+        "ja": "長尾線",
+        "prefectures": [
+          "香川県"
+        ]
       }
     ]
   },
@@ -1042,7 +1565,10 @@
     "railways": [
       {
         "ja": "高尾鋼索線",
-        "en": "Takaotozan Railway"
+        "en": "Takaotozan Railway",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -1054,7 +1580,10 @@
     "railways": [
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "富山県"
+        ]
       }
     ]
   },
@@ -1066,7 +1595,10 @@
     "railways": [
       {
         "ja": "嵯峨野観光線",
-        "en": "Sagano Scenic Railway"
+        "en": "Sagano Scenic Railway",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -1078,41 +1610,74 @@
     "railways": [
       {
         "ja": "伊丹線",
-        "en": "Hankyū Itami Line"
+        "en": "Hankyū Itami Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "京都線",
-        "en": "Kyoto Line"
+        "en": "Kyoto Line",
+        "prefectures": [
+          "京都府",
+          "大阪府"
+        ]
       },
       {
         "ja": "甲陽線",
-        "en": "Hankyū Kōyō Line"
+        "en": "Hankyū Kōyō Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "今津線",
-        "en": "Hankyū Imazu Line"
+        "en": "Hankyū Imazu Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
-        "ja": "神戸高速線"
+        "ja": "神戸高速線",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "神戸線",
-        "en": "Kobe Line"
+        "en": "Kobe Line",
+        "prefectures": [
+          "大阪府",
+          "兵庫県"
+        ]
       },
       {
         "ja": "千里線",
-        "en": "Hankyu Senri Line"
+        "en": "Hankyu Senri Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "宝塚線"
+        "ja": "宝塚線",
+        "prefectures": [
+          "大阪府",
+          "兵庫県"
+        ]
       },
       {
         "ja": "箕面線",
-        "en": "Hankyū Minoo Line"
+        "en": "Hankyū Minoo Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "嵐山線",
-        "en": "Arashiyama Line"
+        "en": "Arashiyama Line",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -1123,10 +1688,16 @@
     },
     "railways": [
       {
-        "ja": "阪堺線"
+        "ja": "阪堺線",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "上町線"
+        "ja": "上町線",
+        "prefectures": [
+          "大阪府"
+        ]
       }
     ]
   },
@@ -1138,7 +1709,11 @@
     "railways": [
       {
         "ja": "埼玉高速鉄道線",
-        "en": "Saitama Rapid Railway Line"
+        "en": "Saitama Rapid Railway Line",
+        "prefectures": [
+          "埼玉県",
+          "東京都"
+        ]
       }
     ]
   },
@@ -1150,7 +1725,10 @@
     "railways": [
       {
         "ja": "伊奈線",
-        "en": "New Shuttle"
+        "en": "New Shuttle",
+        "prefectures": [
+          "埼玉県"
+        ]
       }
     ]
   },
@@ -1160,30 +1738,51 @@
     },
     "railways": [
       {
-        "ja": "1条線"
+        "ja": "1条線",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "山鼻西線",
-        "en": "Sapporo Streetcar"
+        "en": "Sapporo Streetcar",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "山鼻線",
-        "en": "Sapporo Streetcar"
+        "en": "Sapporo Streetcar",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "東西線",
-        "en": "East West Line"
+        "en": "East West Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "東豊線",
-        "en": "Tōhō Line"
+        "en": "Tōhō Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "南北線",
-        "en": "North–South line"
+        "en": "North–South line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
-        "ja": "都心線"
+        "ja": "都心線",
+        "prefectures": [
+          "北海道"
+        ]
       }
     ]
   },
@@ -1194,14 +1793,23 @@
     },
     "railways": [
       {
-        "ja": "近鉄連絡線"
+        "ja": "近鉄連絡線",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
-        "ja": "三岐線"
+        "ja": "三岐線",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
         "ja": "北勢線",
-        "en": "Sangi Railway Hokusei Line"
+        "en": "Sangi Railway Hokusei Line",
+        "prefectures": [
+          "三重県"
+        ]
       }
     ]
   },
@@ -1212,10 +1820,16 @@
     },
     "railways": [
       {
-        "ja": "南リアス線"
+        "ja": "南リアス線",
+        "prefectures": [
+          "岩手県"
+        ]
       },
       {
-        "ja": "北リアス線"
+        "ja": "北リアス線",
+        "prefectures": [
+          "岩手県"
+        ]
       }
     ]
   },
@@ -1227,7 +1841,10 @@
     "railways": [
       {
         "ja": "フラワー長井線",
-        "en": "Flower Nagai Line"
+        "en": "Flower Nagai Line",
+        "prefectures": [
+          "山形県"
+        ]
       }
     ]
   },
@@ -1239,7 +1856,10 @@
     "railways": [
       {
         "ja": "ユーカリが丘線",
-        "en": "Yamaman Yūkarigaoka Line"
+        "en": "Yamaman Yūkarigaoka Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -1251,11 +1871,17 @@
     "railways": [
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "網干線",
-        "en": "Sanyo Electric Railway Aboshi Line"
+        "en": "Sanyo Electric Railway Aboshi Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -1267,7 +1893,10 @@
     "railways": [
       {
         "ja": "八栗ケーブル",
-        "en": "Yakuri Cable"
+        "en": "Yakuri Cable",
+        "prefectures": [
+          "香川県"
+        ]
       }
     ]
   },
@@ -1279,39 +1908,72 @@
     "railways": [
       {
         "ja": "高徳線",
-        "en": "Kōtoku Line"
+        "en": "Kōtoku Line",
+        "prefectures": [
+          "香川県",
+          "徳島県"
+        ]
       },
       {
         "ja": "土讃線",
-        "en": "Dosan Line"
+        "en": "Dosan Line",
+        "prefectures": [
+          "香川県",
+          "徳島県",
+          "高知県"
+        ]
       },
       {
         "ja": "徳島線",
-        "en": "Tokushima Line"
+        "en": "Tokushima Line",
+        "prefectures": [
+          "徳島県"
+        ]
       },
       {
         "ja": "内子線",
-        "en": "Uchiko Line"
+        "en": "Uchiko Line",
+        "prefectures": [
+          "愛媛県"
+        ]
       },
       {
         "ja": "本四備讃線",
-        "en": "Honshi-Bisan Line"
+        "en": "Honshi-Bisan Line",
+        "prefectures": [
+          "香川県",
+          "岡山県"
+        ]
       },
       {
         "ja": "牟岐線",
-        "en": "Mugi Line"
+        "en": "Mugi Line",
+        "prefectures": [
+          "徳島県"
+        ]
       },
       {
         "ja": "鳴門線",
-        "en": "Naruto Line"
+        "en": "Naruto Line",
+        "prefectures": [
+          "徳島県"
+        ]
       },
       {
         "ja": "予讃線",
-        "en": "Yosan Line"
+        "en": "Yosan Line",
+        "prefectures": [
+          "香川県",
+          "愛媛県"
+        ]
       },
       {
         "ja": "予土線",
-        "en": "Yodo Line"
+        "en": "Yodo Line",
+        "prefectures": [
+          "高知県",
+          "愛媛県"
+        ]
       }
     ]
   },
@@ -1321,16 +1983,28 @@
     },
     "railways": [
       {
-        "ja": "第一期線"
+        "ja": "第一期線",
+        "prefectures": [
+          "鹿児島県"
+        ]
       },
       {
-        "ja": "第二期線"
+        "ja": "第二期線",
+        "prefectures": [
+          "鹿児島県"
+        ]
       },
       {
-        "ja": "谷山線"
+        "ja": "谷山線",
+        "prefectures": [
+          "鹿児島県"
+        ]
       },
       {
-        "ja": "唐湊線"
+        "ja": "唐湊線",
+        "prefectures": [
+          "鹿児島県"
+        ]
       }
     ]
   },
@@ -1342,7 +2016,10 @@
     "railways": [
       {
         "ja": "大洗鹿島線",
-        "en": "Ōarai Kashima Line"
+        "en": "Ōarai Kashima Line",
+        "prefectures": [
+          "茨城県"
+        ]
       }
     ]
   },
@@ -1354,7 +2031,10 @@
     "railways": [
       {
         "ja": "芝山鉄道線",
-        "en": "Shibayama Railway Line"
+        "en": "Shibayama Railway Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -1366,7 +2046,10 @@
     "railways": [
       {
         "ja": "若桜線",
-        "en": "Wakasa Line"
+        "en": "Wakasa Line",
+        "prefectures": [
+          "鳥取県"
+        ]
       }
     ]
   },
@@ -1378,7 +2061,13 @@
     "railways": [
       {
         "ja": "常磐新線",
-        "en": "Tsukuba Express"
+        "en": "Tsukuba Express",
+        "prefectures": [
+          "千葉県",
+          "茨城県",
+          "東京都",
+          "埼玉県"
+        ]
       }
     ]
   },
@@ -1390,7 +2079,10 @@
     "railways": [
       {
         "ja": "秋田内陸線",
-        "en": "Akita Nairiku Line"
+        "en": "Akita Nairiku Line",
+        "prefectures": [
+          "秋田県"
+        ]
       }
     ]
   },
@@ -1401,15 +2093,26 @@
     },
     "railways": [
       {
-        "ja": "江ノ島線"
+        "ja": "江ノ島線",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "小田原線",
-        "en": "Odakyū Odawara Line"
+        "en": "Odakyū Odawara Line",
+        "prefectures": [
+          "東京都",
+          "神奈川県"
+        ]
       },
       {
         "ja": "多摩線",
-        "en": "Odakyū Tama Line"
+        "en": "Odakyū Tama Line",
+        "prefectures": [
+          "神奈川県",
+          "東京都"
+        ]
       }
     ]
   },
@@ -1421,7 +2124,10 @@
     "railways": [
       {
         "ja": "小湊鐵道線",
-        "en": "Kominato Line"
+        "en": "Kominato Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -1433,7 +2139,11 @@
     "railways": [
       {
         "ja": "西九州線",
-        "en": "Nishi-Kyūshū Line"
+        "en": "Nishi-Kyūshū Line",
+        "prefectures": [
+          "長崎県",
+          "佐賀県"
+        ]
       }
     ]
   },
@@ -1445,7 +2155,10 @@
     "railways": [
       {
         "ja": "上高地線",
-        "en": "Kamikōchi Line"
+        "en": "Kamikōchi Line",
+        "prefectures": [
+          "長野県"
+        ]
       }
     ]
   },
@@ -1456,7 +2169,10 @@
     },
     "railways": [
       {
-        "ja": "江の島線"
+        "ja": "江の島線",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -1468,7 +2184,10 @@
     "railways": [
       {
         "ja": "上信線",
-        "en": "Jōshin Dentetsu Jōshin Line"
+        "en": "Jōshin Dentetsu Jōshin Line",
+        "prefectures": [
+          "群馬県"
+        ]
       }
     ]
   },
@@ -1480,7 +2199,10 @@
     "railways": [
       {
         "ja": "別所線",
-        "en": "Ueda Electric Railway Bessho Line"
+        "en": "Ueda Electric Railway Bessho Line",
+        "prefectures": [
+          "長野県"
+        ]
       }
     ]
   },
@@ -1492,7 +2214,10 @@
     "railways": [
       {
         "ja": "上毛線",
-        "en": "Jōmō Line"
+        "en": "Jōmō Line",
+        "prefectures": [
+          "群馬県"
+        ]
       }
     ]
   },
@@ -1503,7 +2228,10 @@
     },
     "railways": [
       {
-        "ja": "信楽線"
+        "ja": "信楽線",
+        "prefectures": [
+          "滋賀県"
+        ]
       }
     ]
   },
@@ -1515,7 +2243,10 @@
     "railways": [
       {
         "ja": "新京成線",
-        "en": "Shin-Keisei Line"
+        "en": "Shin-Keisei Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -1527,7 +2258,11 @@
     "railways": [
       {
         "ja": "真岡線",
-        "en": "Mooka Line"
+        "en": "Mooka Line",
+        "prefectures": [
+          "栃木県",
+          "茨城県"
+        ]
       }
     ]
   },
@@ -1537,19 +2272,31 @@
     },
     "railways": [
       {
-        "ja": "海岸線"
+        "ja": "海岸線",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "山手線",
-        "en": "Yamanote Line"
+        "en": "Yamanote Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "西神延伸線",
-        "en": "Seishin-Yamate Line"
+        "en": "Seishin-Yamate Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "西神線",
-        "en": "Seishin-Yamate Line"
+        "en": "Seishin-Yamate Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -1560,7 +2307,10 @@
     "railways": [
       {
         "ja": "摩耶ケーブル線",
-        "en": "Maya Cablecar"
+        "en": "Maya Cablecar",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -1572,20 +2322,35 @@
     "railways": [
       {
         "ja": "粟生線",
-        "en": "Shintetsu Ao Line"
+        "en": "Shintetsu Ao Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "公園都市線",
-        "en": "Shintetsu Kōen-Toshi Line"
+        "en": "Shintetsu Kōen-Toshi Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
-        "ja": "三田線"
+        "ja": "三田線",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
-        "ja": "神戸高速線"
+        "ja": "神戸高速線",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
-        "ja": "有馬線"
+        "ja": "有馬線",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -1597,7 +2362,10 @@
     "railways": [
       {
         "ja": "水間線",
-        "en": "Mizuma Railway Mizuma Line"
+        "en": "Mizuma Railway Mizuma Line",
+        "prefectures": [
+          "大阪府"
+        ]
       }
     ]
   },
@@ -1609,7 +2377,10 @@
     "railways": [
       {
         "ja": "水島本線",
-        "en": "Mizushima Main Line"
+        "en": "Mizushima Main Line",
+        "prefectures": [
+          "岡山県"
+        ]
       }
     ]
   },
@@ -1621,18 +2392,30 @@
     "railways": [
       {
         "ja": "甘木線",
-        "en": "Amagi Railway Amagi Line"
+        "en": "Amagi Railway Amagi Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "貝塚線",
-        "en": "Nishitetsu Kaizuka Line"
+        "en": "Nishitetsu Kaizuka Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
-        "ja": "太宰府線"
+        "ja": "太宰府線",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "天神大牟田線",
-        "en": "Nishitetsu Tenjin Ōmuta Line"
+        "en": "Nishitetsu Tenjin Ōmuta Line",
+        "prefectures": [
+          "福岡県"
+        ]
       }
     ]
   },
@@ -1644,205 +2427,396 @@
     "railways": [
       {
         "ja": "JR東西線",
-        "en": "JR Tōzai Line"
+        "en": "JR Tōzai Line",
+        "prefectures": [
+          "大阪府",
+          "兵庫県"
+        ]
       },
       {
         "ja": "因美線",
-        "en": "Inbi Line"
+        "en": "Inbi Line",
+        "prefectures": [
+          "岡山県",
+          "鳥取県"
+        ]
       },
       {
         "ja": "宇部線",
-        "en": "Ube Line"
+        "en": "Ube Line",
+        "prefectures": [
+          "山口県"
+        ]
       },
       {
         "ja": "宇野線",
-        "en": "Uno Line"
+        "en": "Uno Line",
+        "prefectures": [
+          "岡山県"
+        ]
       },
       {
         "ja": "越美北線",
-        "en": "Etsumi-Hoku Line"
+        "en": "Etsumi-Hoku Line",
+        "prefectures": [
+          "福井県"
+        ]
       },
       {
         "ja": "加古川線",
-        "en": "Kakogawa Line"
+        "en": "Kakogawa Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "可部線",
-        "en": "Kabe Line"
+        "en": "Kabe Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "関西空港線",
-        "en": "Kansai Airport Line"
+        "en": "Kansai Airport Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "関西線",
-        "en": "Kansai Main Line"
+        "en": "Kansai Main Line",
+        "prefectures": [
+          "三重県",
+          "奈良県",
+          "京都府",
+          "大阪府"
+        ]
       },
       {
         "ja": "岩徳線",
-        "en": "Gantoku Line"
+        "en": "Gantoku Line",
+        "prefectures": [
+          "山口県"
+        ]
       },
       {
         "ja": "紀勢線",
-        "en": "Kisei Main Line"
+        "en": "Kisei Main Line",
+        "prefectures": [
+          "和歌山県"
+        ]
       },
       {
         "ja": "吉備線",
-        "en": "Kibi Line"
+        "en": "Kibi Line",
+        "prefectures": [
+          "岡山県"
+        ]
       },
       {
         "ja": "境線",
-        "en": "Sakai Line"
+        "en": "Sakai Line",
+        "prefectures": [
+          "鳥取県"
+        ]
       },
       {
         "ja": "芸備線",
-        "en": "Geibi Line"
+        "en": "Geibi Line",
+        "prefectures": [
+          "岡山県",
+          "広島県"
+        ]
       },
       {
         "ja": "湖西線",
-        "en": "Kosei Line"
+        "en": "Kosei Line",
+        "prefectures": [
+          "京都府",
+          "滋賀県"
+        ]
       },
       {
         "ja": "呉線",
-        "en": "Kure Line"
+        "en": "Kure Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "高山線",
-        "en": "Takayama Main Line"
+        "en": "Takayama Main Line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "阪和線",
-        "en": "Hanwa Line"
+        "en": "Hanwa Line",
+        "prefectures": [
+          "大阪府",
+          "和歌山県"
+        ]
       },
       {
         "ja": "桜井線",
-        "en": "Sakurai Line"
+        "en": "Sakurai Line",
+        "prefectures": [
+          "奈良県"
+        ]
       },
       {
         "ja": "桜島線",
-        "en": "Sakurajima Line"
+        "en": "Sakurajima Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "山陰線",
-        "en": "San'in Main Line"
+        "en": "San'in Main Line",
+        "prefectures": [
+          "京都府",
+          "兵庫県",
+          "鳥取県",
+          "島根県",
+          "山口県"
+        ]
       },
       {
         "ja": "山口線",
-        "en": "Yamaguchi Line"
+        "en": "Yamaguchi Line",
+        "prefectures": [
+          "島根県",
+          "山口県"
+        ]
       },
       {
         "ja": "山陽新幹線",
-        "en": "San'yō Shinkansen"
+        "en": "San'yō Shinkansen",
+        "prefectures": [
+          "大阪府",
+          "兵庫県",
+          "岡山県",
+          "広島県",
+          "山口県",
+          "福岡県"
+        ]
       },
       {
-        "ja": "山陽線"
+        "ja": "山陽線",
+        "prefectures": [
+          "兵庫県",
+          "岡山県",
+          "広島県",
+          "山口県"
+        ]
       },
       {
         "ja": "七尾線",
-        "en": "Nanao Line"
+        "en": "Nanao Line",
+        "prefectures": [
+          "石川県"
+        ]
       },
       {
         "ja": "小浜線",
-        "en": "Obama Line"
+        "en": "Obama Line",
+        "prefectures": [
+          "福井県",
+          "京都府"
+        ]
       },
       {
         "ja": "小野田線",
-        "en": "Onoda Line"
+        "en": "Onoda Line",
+        "prefectures": [
+          "山口県"
+        ]
       },
       {
         "ja": "城端線",
-        "en": "Jōhana Line"
+        "en": "Jōhana Line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "赤穂線",
-        "en": "Akō Line"
+        "en": "Akō Line",
+        "prefectures": [
+          "岡山県",
+          "兵庫県"
+        ]
       },
       {
         "ja": "草津線",
-        "en": "Kusatsu Line"
+        "en": "Kusatsu Line",
+        "prefectures": [
+          "滋賀県",
+          "三重県"
+        ]
       },
       {
         "ja": "大阪環状線",
-        "en": "Osaka Loop Line"
+        "en": "Osaka Loop Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "大糸線",
-        "en": "Ōito Line"
+        "en": "Ōito Line",
+        "prefectures": [
+          "長野県",
+          "新潟県"
+        ]
       },
       {
         "ja": "津山線",
-        "en": "Tsuyama Line"
+        "en": "Tsuyama Line",
+        "prefectures": [
+          "岡山県"
+        ]
       },
       {
-        "ja": "東海道線"
+        "ja": "東海道線",
+        "prefectures": [
+          "滋賀県",
+          "京都府",
+          "大阪府",
+          "兵庫県"
+        ]
       },
       {
         "ja": "奈良線",
-        "en": "Nara Line (JR West)"
+        "en": "Nara Line (JR West)",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
         "ja": "播但線",
-        "en": "Bantan Line"
+        "en": "Bantan Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
         "ja": "伯備線",
-        "en": "Hakubi Line"
+        "en": "Hakubi Line",
+        "prefectures": [
+          "岡山県",
+          "鳥取県"
+        ]
       },
       {
         "ja": "博多南線",
-        "en": "Hakata-Minami Line"
+        "en": "Hakata-Minami Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "美祢線",
-        "en": "Mine Line"
+        "en": "Mine Line",
+        "prefectures": [
+          "山口県"
+        ]
       },
       {
         "ja": "姫新線",
-        "en": "Kishin Line"
+        "en": "Kishin Line",
+        "prefectures": [
+          "兵庫県",
+          "岡山県"
+        ]
       },
       {
         "ja": "氷見線",
-        "en": "Himi Line"
+        "en": "Himi Line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "舞鶴線",
-        "en": "Maizuru Line"
+        "en": "Maizuru Line",
+        "prefectures": [
+          "京都府"
+        ]
       },
       {
         "ja": "福塩線",
-        "en": "Fukuen Line"
+        "en": "Fukuen Line",
+        "prefectures": [
+          "広島県"
+        ]
       },
       {
         "ja": "福知山線",
-        "en": "Fukuchiyama Line"
+        "en": "Fukuchiyama Line",
+        "prefectures": [
+          "京都府",
+          "兵庫県"
+        ]
       },
       {
         "ja": "片町線",
-        "en": "Katamachi Line"
+        "en": "Katamachi Line",
+        "prefectures": [
+          "京都府",
+          "大阪府"
+        ]
       },
       {
         "ja": "北陸線",
-        "en": "Hokuriku Main Line"
+        "en": "Hokuriku Main Line",
+        "prefectures": [
+          "石川県",
+          "滋賀県",
+          "福井県"
+        ]
       },
       {
         "ja": "本四備讃線",
-        "en": "Honshi-Bisan Line"
+        "en": "Honshi-Bisan Line",
+        "prefectures": [
+          "岡山県"
+        ]
       },
       {
         "ja": "木次線",
-        "en": "Kisuki Line"
+        "en": "Kisuki Line",
+        "prefectures": [
+          "島根県",
+          "広島県"
+        ]
       },
       {
         "ja": "和歌山線",
-        "en": "Wakayama Line"
+        "en": "Wakayama Line",
+        "prefectures": [
+          "和歌山県",
+          "奈良県"
+        ]
       },
       {
         "ja": "おおさか東線",
-        "en": "Osaka Higashi Line"
+        "en": "Osaka Higashi Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "北陸新幹線",
-        "en": "Hokuriku Shinkansen"
+        "en": "Hokuriku Shinkansen",
+        "prefectures": [
+          "新潟県",
+          "富山県",
+          "石川県"
+        ]
       }
     ]
   },
@@ -1853,10 +2827,16 @@
     },
     "railways": [
       {
-        "ja": "日本海ひすいライン"
+        "ja": "日本海ひすいライン",
+        "prefectures": [
+          "新潟県"
+        ]
       },
       {
-        "ja": "妙高はねうまライン"
+        "ja": "妙高はねうまライン",
+        "prefectures": [
+          "新潟県"
+        ]
       }
     ]
   },
@@ -1867,7 +2847,12 @@
     },
     "railways": [
       {
-        "ja": "あいの風とやま鉄道線"
+        "ja": "あいの風とやま鉄道線",
+        "prefectures": [
+          "富山県",
+          "新潟県",
+          "石川県"
+        ]
       }
     ]
   },
@@ -1878,7 +2863,10 @@
     },
     "railways": [
       {
-        "ja": "IRいしかわ鉄道線"
+        "ja": "IRいしかわ鉄道線",
+        "prefectures": [
+          "石川県"
+        ]
       }
     ]
   },
@@ -1890,49 +2878,88 @@
     "railways": [
       {
         "ja": "狭山線",
-        "en": "Seibu Sayama Line"
+        "en": "Seibu Sayama Line",
+        "prefectures": [
+          "埼玉県"
+        ]
       },
       {
         "ja": "国分寺線",
-        "en": "Seibu Kokubunji Line"
+        "en": "Seibu Kokubunji Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "山口線",
-        "en": "Yamaguchi Line"
+        "en": "Yamaguchi Line",
+        "prefectures": [
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
         "ja": "新宿線",
-        "en": "Shinjuku Line"
+        "en": "Shinjuku Line",
+        "prefectures": [
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
         "ja": "西武園線",
-        "en": "Seibu Seibu-en Line"
+        "en": "Seibu Seibu-en Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "西武秩父線",
-        "en": "Seibu Chichibu Line"
+        "en": "Seibu Chichibu Line",
+        "prefectures": [
+          "埼玉県"
+        ]
       },
       {
         "ja": "西武有楽町線",
-        "en": "Seibu Yūrakuchō Line"
+        "en": "Seibu Yūrakuchō Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "多摩湖線",
-        "en": "Seibu Tamako Line"
+        "en": "Seibu Tamako Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "多摩川線",
-        "en": "Tamagawa Line"
+        "en": "Tamagawa Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "池袋線"
+        "ja": "池袋線",
+        "prefectures": [
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
         "ja": "拝島線",
-        "en": "Seibu Haijima Line"
+        "en": "Seibu Haijima Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "豊島線"
+        "ja": "豊島線",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -1944,7 +2971,10 @@
     "railways": [
       {
         "ja": "青い森鉄道線",
-        "en": "Aoimori Railway Line"
+        "en": "Aoimori Railway Line",
+        "prefectures": [
+          "青森県"
+        ]
       }
     ]
   },
@@ -1956,7 +2986,10 @@
     "railways": [
       {
         "ja": "静岡清水線",
-        "en": "Shizuoka Railway Shizuoka–Shimizu Line"
+        "en": "Shizuoka Railway Shizuoka–Shimizu Line",
+        "prefectures": [
+          "静岡県"
+        ]
       }
     ]
   },
@@ -1967,11 +3000,17 @@
     "railways": [
       {
         "ja": "南北線",
-        "en": "North–South line"
+        "en": "North–South line",
+        "prefectures": [
+          "宮城県"
+        ]
       },
       {
         "ja": "東西線",
-        "en": "East West Line"
+        "en": "East West Line",
+        "prefectures": [
+          "宮城県"
+        ]
       }
     ]
   },
@@ -1983,10 +3022,16 @@
     "railways": [
       {
         "ja": "1号線",
-        "en": "Line 1"
+        "en": "Line 1",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
-        "ja": "2号線"
+        "ja": "2号線",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -1998,11 +3043,17 @@
     "railways": [
       {
         "ja": "いずみ野線",
-        "en": "Sōtetsu Izumino Line"
+        "en": "Sōtetsu Izumino Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -2014,7 +3065,10 @@
     "railways": [
       {
         "ja": "流山線",
-        "en": "Nagareyama Line"
+        "en": "Nagareyama Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -2026,7 +3080,10 @@
     "railways": [
       {
         "ja": "多摩都市モノレール線",
-        "en": "Tama Toshi Monorail Line"
+        "en": "Tama Toshi Monorail Line",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -2038,11 +3095,17 @@
     "railways": [
       {
         "ja": "井川線",
-        "en": "Ōigawa Railway Ikawa Line"
+        "en": "Ōigawa Railway Ikawa Line",
+        "prefectures": [
+          "静岡県"
+        ]
       },
       {
         "ja": "大井川本線",
-        "en": "Ōigawa Railway Ōigawa Main Line"
+        "en": "Ōigawa Railway Ōigawa Main Line",
+        "prefectures": [
+          "静岡県"
+        ]
       }
     ]
   },
@@ -2053,11 +3116,18 @@
     },
     "railways": [
       {
-        "ja": "国際文化公園都市モノレール線（彩都線）"
+        "ja": "国際文化公園都市モノレール線（彩都線）",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "大阪モノレール線",
-        "en": "Osaka Monorail Main Line"
+        "en": "Osaka Monorail Main Line",
+        "prefectures": [
+          "大阪府",
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -2068,32 +3138,59 @@
     },
     "railways": [
       {
-        "ja": "1号線(御堂筋線)"
+        "ja": "1号線(御堂筋線)",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "2号線(谷町線)"
+        "ja": "2号線(谷町線)",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "3号線(四つ橋線)"
+        "ja": "3号線(四つ橋線)",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "4号線(中央線)"
+        "ja": "4号線(中央線)",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "5号線(千日前線)"
+        "ja": "5号線(千日前線)",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "6号線(堺筋線)"
+        "ja": "6号線(堺筋線)",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "7号線(長堀鶴見緑地線)"
+        "ja": "7号線(長堀鶴見緑地線)",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "南港ポートタウン線",
-        "en": "Nankō Port Town Line"
+        "en": "Nankō Port Town Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "8号線（今里筋線）"
+        "ja": "8号線（今里筋線）",
+        "prefectures": [
+          "大阪府"
+        ]
       }
     ]
   },
@@ -2105,7 +3202,10 @@
     "railways": [
       {
         "ja": "泉北高速鉄道線",
-        "en": "Semboku Rapid Railway"
+        "en": "Semboku Rapid Railway",
+        "prefectures": [
+          "大阪府"
+        ]
       }
     ]
   },
@@ -2117,7 +3217,10 @@
     "railways": [
       {
         "ja": "大山鋼索線",
-        "en": "Ōyama Cable Car"
+        "en": "Ōyama Cable Car",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -2129,7 +3232,10 @@
     "railways": [
       {
         "ja": "樽見線",
-        "en": "Tarumi Line"
+        "en": "Tarumi Line",
+        "prefectures": [
+          "岐阜県"
+        ]
       }
     ]
   },
@@ -2141,7 +3247,10 @@
     "railways": [
       {
         "ja": "天橋立鋼索鉄道",
-        "en": "Amanohashidate Cable Car"
+        "en": "Amanohashidate Cable Car",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -2152,7 +3261,12 @@
     },
     "railways": [
       {
-        "ja": "智頭線"
+        "ja": "智頭線",
+        "prefectures": [
+          "兵庫県",
+          "鳥取県",
+          "岡山県"
+        ]
       }
     ]
   },
@@ -2163,7 +3277,10 @@
     "railways": [
       {
         "ja": "筑波山鋼索鉄道線",
-        "en": "Mount Tsukuba Cable Car"
+        "en": "Mount Tsukuba Cable Car",
+        "prefectures": [
+          "茨城県"
+        ]
       }
     ]
   },
@@ -2175,7 +3292,10 @@
     "railways": [
       {
         "ja": "筑豊電気鉄道線",
-        "en": "Chikuhō Electric Railroad Line"
+        "en": "Chikuhō Electric Railroad Line",
+        "prefectures": [
+          "福岡県"
+        ]
       }
     ]
   },
@@ -2187,7 +3307,10 @@
     "railways": [
       {
         "ja": "秩父本線",
-        "en": "Chichibu Main Line"
+        "en": "Chichibu Main Line",
+        "prefectures": [
+          "埼玉県"
+        ]
       }
     ]
   },
@@ -2199,7 +3322,10 @@
     "railways": [
       {
         "ja": "銚子電気鉄道線",
-        "en": "Chōshi Electric Railway Line"
+        "en": "Chōshi Electric Railway Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -2210,20 +3336,35 @@
     },
     "railways": [
       {
-        "ja": "蛍茶屋支線"
+        "ja": "蛍茶屋支線",
+        "prefectures": [
+          "長崎県"
+        ]
       },
       {
-        "ja": "桜町支線"
+        "ja": "桜町支線",
+        "prefectures": [
+          "長崎県"
+        ]
       },
       {
-        "ja": "赤迫支線"
+        "ja": "赤迫支線",
+        "prefectures": [
+          "長崎県"
+        ]
       },
       {
-        "ja": "大浦支線"
+        "ja": "大浦支線",
+        "prefectures": [
+          "長崎県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "長崎県"
+        ]
       }
     ]
   },
@@ -2235,7 +3376,10 @@
     "railways": [
       {
         "ja": "長野線",
-        "en": "Nagano Line"
+        "en": "Nagano Line",
+        "prefectures": [
+          "長野県"
+        ]
       }
     ]
   },
@@ -2247,7 +3391,10 @@
     "railways": [
       {
         "ja": "越美南線",
-        "en": "Etsumi-Nan Line"
+        "en": "Etsumi-Nan Line",
+        "prefectures": [
+          "岐阜県"
+        ]
       }
     ]
   },
@@ -2259,7 +3406,10 @@
     "railways": [
       {
         "ja": "津軽鉄道線",
-        "en": "Tsugaru Railway"
+        "en": "Tsugaru Railway",
+        "prefectures": [
+          "青森県"
+        ]
       }
     ]
   },
@@ -2271,7 +3421,10 @@
     "railways": [
       {
         "ja": "天竜浜名湖線",
-        "en": "Tenryū Hamanako Line"
+        "en": "Tenryū Hamanako Line",
+        "prefectures": [
+          "静岡県"
+        ]
       }
     ]
   },
@@ -2282,13 +3435,22 @@
     },
     "railways": [
       {
-        "ja": "阿佐線"
+        "ja": "阿佐線",
+        "prefectures": [
+          "高知県"
+        ]
       },
       {
-        "ja": "宿毛線"
+        "ja": "宿毛線",
+        "prefectures": [
+          "高知県"
+        ]
       },
       {
-        "ja": "中村線"
+        "ja": "中村線",
+        "prefectures": [
+          "高知県"
+        ]
       }
     ]
   },
@@ -2300,18 +3462,30 @@
     "railways": [
       {
         "ja": "伊野線",
-        "en": "Tosaden Kōtsū Ino Line"
+        "en": "Tosaden Kōtsū Ino Line",
+        "prefectures": [
+          "高知県"
+        ]
       },
       {
         "ja": "後免線",
-        "en": "Tosaden Kōtsū Gomen Line"
+        "en": "Tosaden Kōtsū Gomen Line",
+        "prefectures": [
+          "高知県"
+        ]
       },
       {
         "ja": "桟橋線",
-        "en": "Tosaden Kōtsū Sanbashi Line"
+        "en": "Tosaden Kōtsū Sanbashi Line",
+        "prefectures": [
+          "高知県"
+        ]
       },
       {
-        "ja": "駅前線"
+        "ja": "駅前線",
+        "prefectures": [
+          "高知県"
+        ]
       }
     ]
   },
@@ -2323,7 +3497,10 @@
     "railways": [
       {
         "ja": "島原鉄道線",
-        "en": "Shimabara Railway Line"
+        "en": "Shimabara Railway Line",
+        "prefectures": [
+          "長崎県"
+        ]
       }
     ]
   },
@@ -2335,7 +3512,10 @@
     "railways": [
       {
         "ja": "城北線",
-        "en": "Jōhoku Line"
+        "en": "Jōhoku Line",
+        "prefectures": [
+          "愛知県"
+        ]
       }
     ]
   },
@@ -2346,54 +3526,112 @@
     "railways": [
       {
         "ja": "関西線",
-        "en": "Kansai Main Line"
+        "en": "Kansai Main Line",
+        "prefectures": [
+          "愛知県",
+          "三重県"
+        ]
       },
       {
         "ja": "紀勢線",
-        "en": "Kisei Main Line"
+        "en": "Kisei Main Line",
+        "prefectures": [
+          "三重県",
+          "和歌山県"
+        ]
       },
       {
         "ja": "御殿場線",
-        "en": "Gotemba Line"
+        "en": "Gotemba Line",
+        "prefectures": [
+          "神奈川県",
+          "静岡県"
+        ]
       },
       {
         "ja": "高山線",
-        "en": "Takayama Main Line"
+        "en": "Takayama Main Line",
+        "prefectures": [
+          "岐阜県",
+          "富山県"
+        ]
       },
       {
         "ja": "参宮線",
-        "en": "Sangū Line"
+        "en": "Sangū Line",
+        "prefectures": [
+          "三重県"
+        ]
       },
       {
         "ja": "身延線",
-        "en": "Minobu Line"
+        "en": "Minobu Line",
+        "prefectures": [
+          "山梨県",
+          "静岡県"
+        ]
       },
       {
         "ja": "太多線",
-        "en": "Taita Line"
+        "en": "Taita Line",
+        "prefectures": [
+          "岐阜県"
+        ]
       },
       {
         "ja": "中央線",
-        "en": "Central line"
+        "en": "Central line",
+        "prefectures": [
+          "長野県",
+          "岐阜県",
+          "愛知県"
+        ]
       },
       {
         "ja": "東海道新幹線",
-        "en": "Tōkaidō Shinkansen"
+        "en": "Tōkaidō Shinkansen",
+        "prefectures": [
+          "東京都",
+          "神奈川県",
+          "静岡県",
+          "岐阜県",
+          "愛知県",
+          "滋賀県",
+          "京都府",
+          "大阪府"
+        ]
       },
       {
-        "ja": "東海道線"
+        "ja": "東海道線",
+        "prefectures": [
+          "静岡県",
+          "愛知県",
+          "岐阜県",
+          "滋賀県"
+        ]
       },
       {
         "ja": "飯田線",
-        "en": "Iida Line"
+        "en": "Iida Line",
+        "prefectures": [
+          "長野県",
+          "愛知県",
+          "静岡県"
+        ]
       },
       {
         "ja": "武豊線",
-        "en": "Taketoyo Line"
+        "en": "Taketoyo Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "名松線",
-        "en": "Meishō Line"
+        "en": "Meishō Line",
+        "prefectures": [
+          "三重県"
+        ]
       }
     ]
   },
@@ -2404,7 +3642,11 @@
     },
     "railways": [
       {
-        "ja": "東京モノレール羽田線"
+        "ja": "東京モノレール羽田線",
+        "prefectures": [
+          "東京都",
+          ""
+        ]
       }
     ]
   },
@@ -2416,33 +3658,59 @@
     "railways": [
       {
         "ja": "こどもの国線",
-        "en": "Yokohama Minatomirai Railway Kodomonokuni Line"
+        "en": "Yokohama Minatomirai Railway Kodomonokuni Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "世田谷線",
-        "en": "Tōkyū Setagaya Line"
+        "en": "Tōkyū Setagaya Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "大井町線",
-        "en": "Tōkyū Ōimachi Line"
+        "en": "Tōkyū Ōimachi Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "池上線"
+        "ja": "池上線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "田園都市線",
-        "en": "Tōkyū Den-en-toshi Line"
+        "en": "Tōkyū Den-en-toshi Line",
+        "prefectures": [
+          "東京都",
+          "神奈川県"
+        ]
       },
       {
         "ja": "東横線",
-        "en": "Tōkyū Tōyoko Line"
+        "en": "Tōkyū Tōyoko Line",
+        "prefectures": [
+          "東京都",
+          "神奈川県"
+        ]
       },
       {
         "ja": "東急多摩川線",
-        "en": "Tōkyū Tamagawa Line"
+        "en": "Tōkyū Tamagawa Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "目黒線"
+        "ja": "目黒線",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -2453,34 +3721,66 @@
     },
     "railways": [
       {
-        "ja": "2号線日比谷線"
+        "ja": "2号線日比谷線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "3号線銀座線"
+        "ja": "3号線銀座線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "4号線丸ノ内線"
+        "ja": "4号線丸ノ内線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "4号線丸ノ内線分岐線"
+        "ja": "4号線丸ノ内線分岐線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "5号線東西線"
+        "ja": "5号線東西線",
+        "prefectures": [
+          "千葉県",
+          "東京都"
+        ]
       },
       {
-        "ja": "7号線南北線"
+        "ja": "7号線南北線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "8号線有楽町線"
+        "ja": "8号線有楽町線",
+        "prefectures": [
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
-        "ja": "13号線副都心線"
+        "ja": "13号線副都心線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "9号線千代田線"
+        "ja": "9号線千代田線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "11号線半蔵門線"
+        "ja": "11号線半蔵門線",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -2490,27 +3790,49 @@
     },
     "railways": [
       {
-        "ja": "1号線浅草線"
+        "ja": "1号線浅草線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "6号線三田線"
+        "ja": "6号線三田線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "10号線新宿線"
+        "ja": "10号線新宿線",
+        "prefectures": [
+          "千葉県",
+          "東京都"
+        ]
       },
       {
-        "ja": "12号線大江戸線"
+        "ja": "12号線大江戸線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
-        "ja": "荒川線"
+        "ja": "荒川線",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "上野懸垂線",
-        "en": "Ueno Zoo Monorail"
+        "en": "Ueno Zoo Monorail",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "日暮里・舎人線",
-        "en": "Nippori-Toneri Liner"
+        "en": "Nippori-Toneri Liner",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -2522,7 +3844,10 @@
     "railways": [
       {
         "ja": "りんかい線",
-        "en": "Rinkai Line"
+        "en": "Rinkai Line",
+        "prefectures": [
+          "東京都"
+        ]
       }
     ]
   },
@@ -2534,279 +3859,549 @@
     "railways": [
       {
         "ja": "伊東線",
-        "en": "Itō Line"
+        "en": "Itō Line",
+        "prefectures": [
+          "静岡県"
+        ]
       },
       {
         "ja": "烏山線",
-        "en": "Karasuyama Line"
+        "en": "Karasuyama Line",
+        "prefectures": [
+          "栃木県"
+        ]
       },
       {
         "ja": "羽越線",
-        "en": "Uetsu Main Line"
+        "en": "Uetsu Main Line",
+        "prefectures": [
+          "秋田県",
+          "山形県",
+          "新潟県"
+        ]
       },
       {
         "ja": "越後線",
-        "en": "Echigo Line"
+        "en": "Echigo Line",
+        "prefectures": [
+          "新潟県"
+        ]
       },
       {
         "ja": "奥羽線",
-        "en": "Ōu Main Line"
+        "en": "Ōu Main Line",
+        "prefectures": [
+          "青森県",
+          "秋田県",
+          "山形県",
+          "福島県"
+        ]
       },
       {
         "ja": "横須賀線",
-        "en": "Yokosuka Line"
+        "en": "Yokosuka Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "横浜線",
-        "en": "Yokohama Line"
+        "en": "Yokohama Line",
+        "prefectures": [
+          "神奈川県",
+          "東京都"
+        ]
       },
       {
         "ja": "花輪線",
-        "en": "Hanawa Line"
+        "en": "Hanawa Line",
+        "prefectures": [
+          "岩手県",
+          "秋田県"
+        ]
       },
       {
         "ja": "外房線",
-        "en": "Sotobō Line"
+        "en": "Sotobō Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "釜石線",
-        "en": "Kamaishi Line"
+        "en": "Kamaishi Line",
+        "prefectures": [
+          "岩手県"
+        ]
       },
       {
         "ja": "気仙沼線",
-        "en": "Kesennuma Line"
+        "en": "Kesennuma Line",
+        "prefectures": [
+          "宮城県"
+        ]
       },
       {
         "ja": "久留里線",
-        "en": "Kururi Line"
+        "en": "Kururi Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "京葉線",
-        "en": "Keiyō Line"
+        "en": "Keiyō Line",
+        "prefectures": [
+          "千葉県",
+          "東京都"
+        ]
       },
       {
         "ja": "五日市線",
-        "en": "Itsukaichi Line"
+        "en": "Itsukaichi Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "五能線",
-        "en": "Gonō Line"
+        "en": "Gonō Line",
+        "prefectures": [
+          "青森県",
+          "秋田県"
+        ]
       },
       {
         "ja": "吾妻線",
-        "en": "Agatsuma Line"
+        "en": "Agatsuma Line",
+        "prefectures": [
+          "群馬県"
+        ]
       },
       {
         "ja": "高崎線",
-        "en": "Takasaki Line"
+        "en": "Takasaki Line",
+        "prefectures": [
+          "群馬県",
+          "埼玉県"
+        ]
       },
       {
         "ja": "根岸線",
-        "en": "Negishi Line"
+        "en": "Negishi Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "左沢線",
-        "en": "Aterazawa Line"
+        "en": "Aterazawa Line",
+        "prefectures": [
+          "山形県"
+        ]
       },
       {
         "ja": "山手線",
-        "en": "Yamanote Line"
+        "en": "Yamanote Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "山田線",
-        "en": "Yamada Line (JR East)"
+        "en": "Yamada Line (JR East)",
+        "prefectures": [
+          "岩手県"
+        ]
       },
       {
         "ja": "鹿島線",
-        "en": "Kashima Line"
+        "en": "Kashima Line",
+        "prefectures": [
+          "千葉県",
+          "茨城県"
+        ]
       },
       {
         "ja": "篠ノ井線",
-        "en": "Shinonoi Line"
+        "en": "Shinonoi Line",
+        "prefectures": [
+          "長野県"
+        ]
       },
       {
         "ja": "小海線",
-        "en": "Koumi Line"
+        "en": "Koumi Line",
+        "prefectures": [
+          "長野県",
+          "山梨県"
+        ]
       },
       {
         "ja": "上越新幹線",
-        "en": "Jōetsu Shinkansen"
+        "en": "Jōetsu Shinkansen",
+        "prefectures": [
+          "新潟県",
+          "群馬県",
+          "埼玉県"
+        ]
       },
       {
         "ja": "上越線",
-        "en": "Jōetsu Line"
+        "en": "Jōetsu Line",
+        "prefectures": [
+          "新潟県",
+          "群馬県"
+        ]
       },
       {
         "ja": "常磐線",
-        "en": "Jōban Line"
+        "en": "Jōban Line",
+        "prefectures": [
+          "福島県",
+          "宮城県",
+          "茨城県",
+          "千葉県",
+          "東京都"
+        ]
       },
       {
         "ja": "信越線",
-        "en": "Shin'etsu Main Line"
+        "en": "Shin'etsu Main Line",
+        "prefectures": [
+          "新潟県",
+          "群馬県",
+          "長野県"
+        ]
       },
       {
         "ja": "水郡線",
-        "en": "Suigun Line"
+        "en": "Suigun Line",
+        "prefectures": [
+          "福島県",
+          "茨城県"
+        ]
       },
       {
         "ja": "水戸線",
-        "en": "Mito Line"
+        "en": "Mito Line",
+        "prefectures": [
+          "栃木県",
+          "茨城県"
+        ]
       },
       {
         "ja": "成田線",
-        "en": "Narita Line"
+        "en": "Narita Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "青梅線",
-        "en": "Ōme Line"
+        "en": "Ōme Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "石巻線",
-        "en": "Ishinomaki Line"
+        "en": "Ishinomaki Line",
+        "prefectures": [
+          "宮城県"
+        ]
       },
       {
-        "ja": "赤羽線（埼京線）"
+        "ja": "赤羽線（埼京線）",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "仙山線",
-        "en": "Senzan Line"
+        "en": "Senzan Line",
+        "prefectures": [
+          "宮城県",
+          "山形県"
+        ]
       },
       {
         "ja": "仙石線",
-        "en": "Senseki Line"
+        "en": "Senseki Line",
+        "prefectures": [
+          "宮城県"
+        ]
       },
       {
         "ja": "川越線",
-        "en": "Kawagoe Line"
+        "en": "Kawagoe Line",
+        "prefectures": [
+          "埼玉県"
+        ]
       },
       {
         "ja": "相模線",
-        "en": "Sagami Line"
+        "en": "Sagami Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
-        "ja": "総武線"
+        "ja": "総武線",
+        "prefectures": [
+          "千葉県",
+          "東京都"
+        ]
       },
       {
         "ja": "大糸線",
-        "en": "Ōito Line"
+        "en": "Ōito Line",
+        "prefectures": [
+          "長野県"
+        ]
       },
       {
         "ja": "大船渡線",
-        "en": "Ōfunato Line"
+        "en": "Ōfunato Line",
+        "prefectures": [
+          "岩手県",
+          "宮城県"
+        ]
       },
       {
         "ja": "大湊線",
-        "en": "Ōminato Line"
+        "en": "Ōminato Line",
+        "prefectures": [
+          "青森県"
+        ]
       },
       {
         "ja": "只見線",
-        "en": "Tadami Line"
+        "en": "Tadami Line",
+        "prefectures": [
+          "福島県",
+          "新潟県"
+        ]
       },
       {
         "ja": "男鹿線",
-        "en": "Oga Line"
+        "en": "Oga Line",
+        "prefectures": [
+          "秋田県"
+        ]
       },
       {
         "ja": "中央線",
-        "en": "Central line"
+        "en": "Central line",
+        "prefectures": [
+          "東京都",
+          "長野県",
+          "山梨県",
+          "神奈川県"
+        ]
       },
       {
         "ja": "津軽線",
-        "en": "Tsugaru Line"
+        "en": "Tsugaru Line",
+        "prefectures": [
+          "青森県"
+        ]
       },
       {
         "ja": "鶴見線",
-        "en": "Tsurumi Line"
+        "en": "Tsurumi Line",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
         "ja": "田沢湖線",
-        "en": "Tazawako Line"
+        "en": "Tazawako Line",
+        "prefectures": [
+          "岩手県",
+          "秋田県"
+        ]
       },
       {
-        "ja": "東海道線"
+        "ja": "東海道線",
+        "prefectures": [
+          "東京都",
+          "神奈川県",
+          "静岡県"
+        ]
       },
       {
         "ja": "東金線",
-        "en": "Tōgane Line"
+        "en": "Tōgane Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "東北新幹線",
-        "en": "Tōhoku Shinkansen"
+        "en": "Tōhoku Shinkansen",
+        "prefectures": [
+          "岩手県",
+          "青森県",
+          "宮城県",
+          "福島県",
+          "栃木県",
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
         "ja": "東北線",
-        "en": "Tōhoku Main Line"
+        "en": "Tōhoku Main Line",
+        "prefectures": [
+          "岩手県",
+          "宮城県",
+          "福島県",
+          "栃木県",
+          "茨城県",
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
-        "ja": "東北線（埼京線）"
+        "ja": "東北線（埼京線）",
+        "prefectures": [
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
         "ja": "内房線",
-        "en": "Uchibō Line"
+        "en": "Uchibō Line",
+        "prefectures": [
+          "千葉県"
+        ]
       },
       {
         "ja": "南武線",
-        "en": "Nambu Line"
+        "en": "Nambu Line",
+        "prefectures": [
+          "神奈川県",
+          "東京都"
+        ]
       },
       {
         "ja": "日光線",
-        "en": "Nikkō Line"
+        "en": "Nikkō Line",
+        "prefectures": [
+          "栃木県"
+        ]
       },
       {
         "ja": "白新線",
-        "en": "Hakushin Line"
+        "en": "Hakushin Line",
+        "prefectures": [
+          "新潟県"
+        ]
       },
       {
         "ja": "八戸線",
-        "en": "Hachinohe Line"
+        "en": "Hachinohe Line",
+        "prefectures": [
+          "青森県",
+          "岩手県"
+        ]
       },
       {
         "ja": "八高線",
-        "en": "Hachikō Line"
+        "en": "Hachikō Line",
+        "prefectures": [
+          "群馬県",
+          "埼玉県",
+          "東京都"
+        ]
       },
       {
         "ja": "飯山線",
-        "en": "Iiyama Line"
+        "en": "Iiyama Line",
+        "prefectures": [
+          "新潟県",
+          "長野県"
+        ]
       },
       {
         "ja": "磐越西線",
-        "en": "Ban'etsu West Line"
+        "en": "Ban'etsu West Line",
+        "prefectures": [
+          "福島県",
+          "新潟県"
+        ]
       },
       {
         "ja": "磐越東線",
-        "en": "Ban'etsu East Line"
+        "en": "Ban'etsu East Line",
+        "prefectures": [
+          "福島県"
+        ]
       },
       {
         "ja": "武蔵野線",
-        "en": "Musashino Line"
+        "en": "Musashino Line",
+        "prefectures": [
+          "千葉県",
+          "埼玉県",
+          "東京都"
+        ]
       },
       {
         "ja": "米坂線",
-        "en": "Yonesaka Line"
+        "en": "Yonesaka Line",
+        "prefectures": [
+          "山形県",
+          "新潟県"
+        ]
       },
       {
         "ja": "北上線",
-        "en": "Kitakami Line"
+        "en": "Kitakami Line",
+        "prefectures": [
+          "岩手県",
+          "秋田県"
+        ]
       },
       {
         "ja": "北陸新幹線",
-        "en": "Hokuriku Shinkansen"
+        "en": "Hokuriku Shinkansen",
+        "prefectures": [
+          "群馬県",
+          "長野県",
+          "新潟県"
+        ]
       },
       {
         "ja": "弥彦線",
-        "en": "Yahiko Line"
+        "en": "Yahiko Line",
+        "prefectures": [
+          "新潟県"
+        ]
       },
       {
         "ja": "陸羽西線",
-        "en": "Rikuu West Line"
+        "en": "Rikuu West Line",
+        "prefectures": [
+          "山形県"
+        ]
       },
       {
         "ja": "陸羽東線",
-        "en": "Rikuu East Line"
+        "en": "Rikuu East Line",
+        "prefectures": [
+          "宮城県",
+          "山形県"
+        ]
       },
       {
         "ja": "両毛線",
-        "en": "Ryōmō Line"
+        "en": "Ryōmō Line",
+        "prefectures": [
+          "栃木県",
+          "群馬県"
+        ]
       }
     ]
   },
@@ -2818,50 +4413,94 @@
     "railways": [
       {
         "ja": "伊勢崎線",
-        "en": "Tobu Isesaki Line"
+        "en": "Tobu Isesaki Line",
+        "prefectures": [
+          "群馬県",
+          "栃木県",
+          "埼玉県",
+          "東京都"
+        ]
       },
       {
         "ja": "宇都宮線",
-        "en": "Utsunomiya Line"
+        "en": "Utsunomiya Line",
+        "prefectures": [
+          "栃木県"
+        ]
       },
       {
         "ja": "越生線",
-        "en": "Tobu Ogose Line"
+        "en": "Tobu Ogose Line",
+        "prefectures": [
+          "埼玉県"
+        ]
       },
       {
-        "ja": "鬼怒川線"
+        "ja": "鬼怒川線",
+        "prefectures": [
+          "栃木県"
+        ]
       },
       {
         "ja": "亀戸線",
-        "en": "Tobu Kameido Line"
+        "en": "Tobu Kameido Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "桐生線",
-        "en": "Tōbu Kiryū Line"
+        "en": "Tōbu Kiryū Line",
+        "prefectures": [
+          "群馬県"
+        ]
       },
       {
         "ja": "佐野線",
-        "en": "Tōbu Sano Line"
+        "en": "Tōbu Sano Line",
+        "prefectures": [
+          "群馬県",
+          "栃木県"
+        ]
       },
       {
         "ja": "小泉線",
-        "en": "Tōbu Koizumi Line"
+        "en": "Tōbu Koizumi Line",
+        "prefectures": [
+          "群馬県"
+        ]
       },
       {
         "ja": "大師線",
-        "en": "Daishi Line"
+        "en": "Daishi Line",
+        "prefectures": [
+          "東京都"
+        ]
       },
       {
         "ja": "東上本線",
-        "en": "Tōbu Tōjō Line"
+        "en": "Tōbu Tōjō Line",
+        "prefectures": [
+          "東京都",
+          "埼玉県"
+        ]
       },
       {
         "ja": "日光線",
-        "en": "Nikkō Line"
+        "en": "Nikkō Line",
+        "prefectures": [
+          "栃木県",
+          "埼玉県",
+          "群馬県"
+        ]
       },
       {
         "ja": "野田線",
-        "en": "Tobu Urban Park Line"
+        "en": "Tobu Urban Park Line",
+        "prefectures": [
+          "千葉県",
+          "埼玉県"
+        ]
       }
     ]
   },
@@ -2873,7 +4512,10 @@
     "railways": [
       {
         "ja": "東葉高速線",
-        "en": "Tōyō Rapid Railway Line"
+        "en": "Tōyō Rapid Railway Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -2885,7 +4527,10 @@
     "railways": [
       {
         "ja": "高森線",
-        "en": "Minamiaso Railway Takamori Line"
+        "en": "Minamiaso Railway Takamori Line",
+        "prefectures": [
+          "熊本県"
+        ]
       }
     ]
   },
@@ -2897,33 +4542,59 @@
     "railways": [
       {
         "ja": "加太線",
-        "en": "Kada Line"
+        "en": "Kada Line",
+        "prefectures": [
+          "和歌山県"
+        ]
       },
       {
         "ja": "空港線",
-        "en": "Kūkō Line"
+        "en": "Kūkō Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "鋼索線"
+        "ja": "鋼索線",
+        "prefectures": [
+          "和歌山県"
+        ]
       },
       {
         "ja": "高師浜線",
-        "en": "Takashinohama Line"
+        "en": "Takashinohama Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
-        "ja": "高野線"
+        "ja": "高野線",
+        "prefectures": [
+          "大阪府",
+          "和歌山県"
+        ]
       },
       {
         "ja": "多奈川線",
-        "en": "Tanagawa Line"
+        "en": "Tanagawa Line",
+        "prefectures": [
+          "大阪府"
+        ]
       },
       {
         "ja": "南海本線",
-        "en": "Nankai Main Line"
+        "en": "Nankai Main Line",
+        "prefectures": [
+          "大阪府",
+          "和歌山県"
+        ]
       },
       {
         "ja": "和歌山港線",
-        "en": "Wakayamako Line"
+        "en": "Wakayamako Line",
+        "prefectures": [
+          "和歌山県"
+        ]
       }
     ]
   },
@@ -2934,13 +4605,23 @@
     },
     "railways": [
       {
-        "ja": "日生線"
+        "ja": "日生線",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
-        "ja": "鋼索線"
+        "ja": "鋼索線",
+        "prefectures": [
+          "兵庫県"
+        ]
       },
       {
-        "ja": "妙見線"
+        "ja": "妙見線",
+        "prefectures": [
+          "兵庫県",
+          "大阪府"
+        ]
       }
     ]
   },
@@ -2950,17 +4631,29 @@
     },
     "railways": [
       {
-        "ja": "大森線"
+        "ja": "大森線",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
-        "ja": "湯の川線"
+        "ja": "湯の川線",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
-        "ja": "宝来・谷地頭線"
+        "ja": "宝来・谷地頭線",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "北海道"
+        ]
       }
     ]
   },
@@ -2971,10 +4664,16 @@
     },
     "railways": [
       {
-        "ja": "鋼索線"
+        "ja": "鋼索線",
+        "prefectures": [
+          "神奈川県"
+        ]
       },
       {
-        "ja": "鉄道線"
+        "ja": "鉄道線",
+        "prefectures": [
+          "神奈川県"
+        ]
       }
     ]
   },
@@ -2986,7 +4685,10 @@
     "railways": [
       {
         "ja": "皿倉山ケーブルカー",
-        "en": "Sarakurayama Cable Car"
+        "en": "Sarakurayama Cable Car",
+        "prefectures": [
+          "福岡県"
+        ]
       }
     ]
   },
@@ -2998,7 +4700,10 @@
     "railways": [
       {
         "ja": "比叡山鉄道線",
-        "en": "Sakamoto Cable"
+        "en": "Sakamoto Cable",
+        "prefectures": [
+          "滋賀県"
+        ]
       }
     ]
   },
@@ -3009,7 +4714,11 @@
     },
     "railways": [
       {
-        "ja": "肥薩おれんじ鉄道線"
+        "ja": "肥薩おれんじ鉄道線",
+        "prefectures": [
+          "熊本県",
+          "鹿児島県"
+        ]
       }
     ]
   },
@@ -3020,34 +4729,58 @@
     },
     "railways": [
       {
-        "ja": "安野屋線"
+        "ja": "安野屋線",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
-        "ja": "呉羽線"
+        "ja": "呉羽線",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "支線",
-        "en": "Branch line"
+        "en": "Branch line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "上滝線",
-        "en": "Toyama Chihō Railway Kamidaki Line"
+        "en": "Toyama Chihō Railway Kamidaki Line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "不二越線",
-        "en": "Toyama Chihō Railway Fujikoshi Line"
+        "en": "Toyama Chihō Railway Fujikoshi Line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "本線",
-        "en": "Main line (railway)"
+        "en": "Main line (railway)",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "立山線",
-        "en": "Toyama Chihō Railway Tateyama Line"
+        "en": "Toyama Chihō Railway Tateyama Line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "富山都心線",
-        "en": "Toyama City Tram Line"
+        "en": "Toyama City Tram Line",
+        "prefectures": [
+          "富山県"
+        ]
       }
     ]
   },
@@ -3058,11 +4791,17 @@
     },
     "railways": [
       {
-        "ja": "河口湖線"
+        "ja": "河口湖線",
+        "prefectures": [
+          "山梨県"
+        ]
       },
       {
         "ja": "大月線",
-        "en": "Fujikyuko Line"
+        "en": "Fujikyuko Line",
+        "prefectures": [
+          "山梨県"
+        ]
       }
     ]
   },
@@ -3074,7 +4813,10 @@
     "railways": [
       {
         "ja": "ディズニーリゾートライン",
-        "en": "Disney Resort Line"
+        "en": "Disney Resort Line",
+        "prefectures": [
+          "千葉県"
+        ]
       }
     ]
   },
@@ -3086,7 +4828,10 @@
     "railways": [
       {
         "ja": "福武線",
-        "en": "Fukui Railway Fukubu Line"
+        "en": "Fukui Railway Fukubu Line",
+        "prefectures": [
+          "福井県"
+        ]
       }
     ]
   },
@@ -3096,13 +4841,22 @@
     },
     "railways": [
       {
-        "ja": "1号線(空港線)"
+        "ja": "1号線(空港線)",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
-        "ja": "2号線(箱崎線)"
+        "ja": "2号線(箱崎線)",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
-        "ja": "3号線(七隈線)"
+        "ja": "3号線(七隈線)",
+        "prefectures": [
+          "福岡県"
+        ]
       }
     ]
   },
@@ -3114,7 +4868,10 @@
     "railways": [
       {
         "ja": "飯坂線",
-        "en": "Fukushima Kōtsū Iizaka Line"
+        "en": "Fukushima Kōtsū Iizaka Line",
+        "prefectures": [
+          "福島県"
+        ]
       }
     ]
   },
@@ -3126,19 +4883,31 @@
     "railways": [
       {
         "ja": "伊田線",
-        "en": "Ita Line"
+        "en": "Ita Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "糸田線",
-        "en": "Itoda Line"
+        "en": "Itoda Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "田川線",
-        "en": "Tagawa Line"
+        "en": "Tagawa Line",
+        "prefectures": [
+          "福岡県"
+        ]
       },
       {
         "ja": "門司港レトロ観光線",
-        "en": "Mojikō Retro Scenic Line"
+        "en": "Mojikō Retro Scenic Line",
+        "prefectures": [
+          "福岡県"
+        ]
       }
     ]
   },
@@ -3150,10 +4919,16 @@
     "railways": [
       {
         "ja": "渥美線",
-        "en": "Toyohashi Railroad Atsumi Line"
+        "en": "Toyohashi Railroad Atsumi Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "東田本線"
+        "ja": "東田本線",
+        "prefectures": [
+          "愛知県"
+        ]
       }
     ]
   },
@@ -3165,7 +4940,10 @@
     "railways": [
       {
         "ja": "ほくほく線",
-        "en": "Hokuhoku Line"
+        "en": "Hokuhoku Line",
+        "prefectures": [
+          "新潟県"
+        ]
       }
     ]
   },
@@ -3176,7 +4954,10 @@
     },
     "railways": [
       {
-        "ja": "道南いさりび鉄道線"
+        "ja": "道南いさりび鉄道線",
+        "prefectures": [
+          "北海道"
+        ]
       }
     ]
   },
@@ -3188,59 +4969,103 @@
     "railways": [
       {
         "ja": "海峡線",
-        "en": "Kaikyō Line"
+        "en": "Kaikyō Line",
+        "prefectures": [
+          "青森県",
+          "北海道"
+        ]
       },
       {
         "ja": "釧網線",
-        "en": "Senmō Main Line"
+        "en": "Senmō Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "根室線",
-        "en": "Nemuro Main Line"
+        "en": "Nemuro Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "札沼線",
-        "en": "Sasshō Line"
+        "en": "Sasshō Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "室蘭線",
-        "en": "Muroran Main Line"
+        "en": "Muroran Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "宗谷線",
-        "en": "Sōya Main Line"
+        "en": "Sōya Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "石勝線",
-        "en": "Sekishō Line"
+        "en": "Sekishō Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "石北線",
-        "en": "Sekihoku Main Line"
+        "en": "Sekihoku Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "千歳線",
-        "en": "Chitose Line"
+        "en": "Chitose Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "日高線",
-        "en": "Hidaka Main Line"
+        "en": "Hidaka Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "函館線",
-        "en": "Hakodate Main Line"
+        "en": "Hakodate Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "富良野線",
-        "en": "Furano Line"
+        "en": "Furano Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "留萌線",
-        "en": "Rumoi Main Line"
+        "en": "Rumoi Main Line",
+        "prefectures": [
+          "北海道"
+        ]
       },
       {
         "ja": "北海道新幹線",
-        "en": "Hokkaido Shinkansen"
+        "en": "Hokkaido Shinkansen",
+        "prefectures": [
+          "青森県",
+          "北海道"
+        ]
       }
     ]
   },
@@ -3252,11 +5077,18 @@
     "railways": [
       {
         "ja": "宮津線",
-        "en": "Miyazu Line"
+        "en": "Miyazu Line",
+        "prefectures": [
+          "京都府",
+          "兵庫県"
+        ]
       },
       {
         "ja": "宮福線",
-        "en": "Miyafuku Line"
+        "en": "Miyafuku Line",
+        "prefectures": [
+          "京都府"
+        ]
       }
     ]
   },
@@ -3267,7 +5099,10 @@
     },
     "railways": [
       {
-        "ja": "小倉線"
+        "ja": "小倉線",
+        "prefectures": [
+          "福岡県"
+        ]
       }
     ]
   },
@@ -3279,7 +5114,10 @@
     "railways": [
       {
         "ja": "北条線",
-        "en": "Hōjō Line"
+        "en": "Hōjō Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -3291,7 +5129,10 @@
     "railways": [
       {
         "ja": "北神線",
-        "en": "Hokushin Kyūkō Electric Railway#Operation"
+        "en": "Hokushin Kyūkō Electric Railway#Operation",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -3303,7 +5144,11 @@
     "railways": [
       {
         "ja": "北総線",
-        "en": "Hokusō Line"
+        "en": "Hokusō Line",
+        "prefectures": [
+          "千葉県",
+          "東京都"
+        ]
       }
     ]
   },
@@ -3315,7 +5160,10 @@
     "railways": [
       {
         "ja": "南北線",
-        "en": "North–South line"
+        "en": "North–South line",
+        "prefectures": [
+          "大阪府"
+        ]
       }
     ]
   },
@@ -3327,11 +5175,17 @@
     "railways": [
       {
         "ja": "石川線",
-        "en": "Hokuriku Railroad Ishikawa Line"
+        "en": "Hokuriku Railroad Ishikawa Line",
+        "prefectures": [
+          "石川県"
+        ]
       },
       {
         "ja": "浅野川線",
-        "en": "Hokuriku Railroad Asanogawa Line"
+        "en": "Hokuriku Railroad Asanogawa Line",
+        "prefectures": [
+          "石川県"
+        ]
       }
     ]
   },
@@ -3343,11 +5197,17 @@
     "railways": [
       {
         "ja": "高岡軌道線",
-        "en": "Man'yōsen Takaoka Kidō Line"
+        "en": "Man'yōsen Takaoka Kidō Line",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
         "ja": "新湊港線",
-        "en": "Man'yōsen Shinminatokō Line"
+        "en": "Man'yōsen Shinminatokō Line",
+        "prefectures": [
+          "富山県"
+        ]
       }
     ]
   },
@@ -3359,7 +5219,10 @@
     "railways": [
       {
         "ja": "ガイドウェイバス志段味線",
-        "en": "Yutorito Line"
+        "en": "Yutorito Line",
+        "prefectures": [
+          "愛知県"
+        ]
       }
     ]
   },
@@ -3369,25 +5232,46 @@
     },
     "railways": [
       {
-        "ja": "1号線東山線"
+        "ja": "1号線東山線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "2号線名港線"
+        "ja": "2号線名港線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "2号線名城線"
+        "ja": "2号線名城線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "3号線鶴舞線"
+        "ja": "3号線鶴舞線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "4号線名城線"
+        "ja": "4号線名城線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "6号線桜通線"
+        "ja": "6号線桜通線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "上飯田線"
+        "ja": "上飯田線",
+        "prefectures": [
+          "愛知県"
+        ]
       }
     ]
   },
@@ -3399,80 +5283,143 @@
     "railways": [
       {
         "ja": "羽島線",
-        "en": "Meitetsu Hashima Line"
+        "en": "Meitetsu Hashima Line",
+        "prefectures": [
+          "岐阜県"
+        ]
       },
       {
         "ja": "河和線",
-        "en": "Meitetsu Kōwa Line"
+        "en": "Meitetsu Kōwa Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "各務原線",
-        "en": "Meitetsu Kakamigahara Line"
+        "en": "Meitetsu Kakamigahara Line",
+        "prefectures": [
+          "岐阜県"
+        ]
       },
       {
         "ja": "蒲郡線",
-        "en": "Meitetsu Gamagōri Line"
+        "en": "Meitetsu Gamagōri Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "空港線",
-        "en": "Kūkō Line"
+        "en": "Kūkō Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "犬山線",
-        "en": "Meitetsu Inuyama Line"
+        "en": "Meitetsu Inuyama Line",
+        "prefectures": [
+          "愛知県",
+          "岐阜県"
+        ]
       },
       {
         "ja": "広見線",
-        "en": "Meitetsu Hiromi Line"
+        "en": "Meitetsu Hiromi Line",
+        "prefectures": [
+          "岐阜県",
+          "愛知県"
+        ]
       },
       {
         "ja": "三河線",
-        "en": "Meitetsu Mikawa Line"
+        "en": "Meitetsu Mikawa Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "小牧線"
+        "ja": "小牧線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "常滑線",
-        "en": "Meitetsu Tokoname Line"
+        "en": "Meitetsu Tokoname Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "瀬戸線"
+        "ja": "瀬戸線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "西尾線",
-        "en": "Meitetsu Nishio Line"
+        "en": "Meitetsu Nishio Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "知多新線",
-        "en": "Meitetsu Chita New Line"
+        "en": "Meitetsu Chita New Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
-        "ja": "築港線"
+        "ja": "築港線",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "竹鼻線",
-        "en": "Meitetsu Takehana Line"
+        "en": "Meitetsu Takehana Line",
+        "prefectures": [
+          "岐阜県"
+        ]
       },
       {
         "ja": "津島線",
-        "en": "Meitetsu Tsushima Line"
+        "en": "Meitetsu Tsushima Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "尾西線",
-        "en": "Meitetsu Bisai Line"
+        "en": "Meitetsu Bisai Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "豊川線",
-        "en": "Meitetsu Toyokawa Line"
+        "en": "Meitetsu Toyokawa Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "豊田線",
-        "en": "Meitetsu Toyota Line"
+        "en": "Meitetsu Toyota Line",
+        "prefectures": [
+          "愛知県"
+        ]
       },
       {
         "ja": "名古屋本線",
-        "en": "Meitetsu Nagoya Main Line"
+        "en": "Meitetsu Nagoya Main Line",
+        "prefectures": [
+          "愛知県",
+          "岐阜県"
+        ]
       }
     ]
   },
@@ -3484,7 +5431,10 @@
     "railways": [
       {
         "ja": "西名古屋港線",
-        "en": "Aonami Line"
+        "en": "Aonami Line",
+        "prefectures": [
+          "愛知県"
+        ]
       }
     ]
   },
@@ -3496,7 +5446,10 @@
     "railways": [
       {
         "ja": "明知線",
-        "en": "Akechi Line"
+        "en": "Akechi Line",
+        "prefectures": [
+          "岐阜県"
+        ]
       }
     ]
   },
@@ -3508,7 +5461,11 @@
     "railways": [
       {
         "ja": "会津鬼怒川線",
-        "en": "Yagan Railway#Aizu Kinugawa Line"
+        "en": "Yagan Railway#Aizu Kinugawa Line",
+        "prefectures": [
+          "栃木県",
+          "福島県"
+        ]
       }
     ]
   },
@@ -3520,7 +5477,10 @@
     "railways": [
       {
         "ja": "鳥海山ろく線",
-        "en": "Chōkai Sanroku Line"
+        "en": "Chōkai Sanroku Line",
+        "prefectures": [
+          "秋田県"
+        ]
       }
     ]
   },
@@ -3531,10 +5491,16 @@
     },
     "railways": [
       {
-        "ja": "鋼索線"
+        "ja": "鋼索線",
+        "prefectures": [
+          "富山県"
+        ]
       },
       {
-        "ja": "無軌条電車線"
+        "ja": "無軌条電車線",
+        "prefectures": [
+          "富山県"
+        ]
       }
     ]
   },
@@ -3546,7 +5512,10 @@
     "railways": [
       {
         "ja": "六甲ケーブル線",
-        "en": "Rokko Cable Line"
+        "en": "Rokko Cable Line",
+        "prefectures": [
+          "兵庫県"
+        ]
       }
     ]
   },
@@ -3558,7 +5527,10 @@
     "railways": [
       {
         "ja": "貴志川線",
-        "en": "Kishigawa Line"
+        "en": "Kishigawa Line",
+        "prefectures": [
+          "和歌山県"
+        ]
       }
     ]
   },
@@ -3569,7 +5541,10 @@
     },
     "railways": [
       {
-        "ja": "仙台空港線"
+        "ja": "仙台空港線",
+        "prefectures": [
+          "宮城県"
+        ]
       }
     ]
   },
@@ -3581,7 +5556,10 @@
     "railways": [
       {
         "ja": "湊線",
-        "en": "Minato Line"
+        "en": "Minato Line",
+        "prefectures": [
+          "茨城県"
+        ]
       }
     ]
   },
@@ -3593,7 +5571,11 @@
     "railways": [
       {
         "ja": "養老線",
-        "en": "Yōrō Railway Yōrō Line"
+        "en": "Yōrō Railway Yōrō Line",
+        "prefectures": [
+          "三重県",
+          "岐阜県"
+        ]
       }
     ]
   },
@@ -3605,7 +5587,10 @@
     "railways": [
       {
         "ja": "別府ラクテンチケーブル線",
-        "en": "Beppu Rakutenchi Cable Line"
+        "en": "Beppu Rakutenchi Cable Line",
+        "prefectures": [
+          "大分県"
+        ]
       }
     ]
   },
@@ -3617,7 +5602,10 @@
     "railways": [
       {
         "ja": "伊賀線",
-        "en": "Iga Railway Iga Line"
+        "en": "Iga Railway Iga Line",
+        "prefectures": [
+          "三重県"
+        ]
       }
     ]
   },
@@ -3628,7 +5616,10 @@
     "railways": [
       {
         "ja": "青函トンネル竜飛斜坑線",
-        "en": "Seikan Tunnel Tappi Shakō Line"
+        "en": "Seikan Tunnel Tappi Shakō Line",
+        "prefectures": [
+          "青森県"
+        ]
       }
     ]
   },
@@ -3639,7 +5630,10 @@
     "railways": [
       {
         "ja": "伊賀線",
-        "en": "Iga Railway Iga Line"
+        "en": "Iga Railway Iga Line",
+        "prefectures": [
+          "三重県"
+        ]
       }
     ]
   }
